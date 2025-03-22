@@ -1,0 +1,23 @@
+name: emdm_env
+channels:
+  - conda-forge
+  - r
+  - defaults
+dependencies:
+  - python=3.8.3
+  - numpy=1.21.6
+  - pandas=1.4.1
+  - matplotlib=3.5.3
+  - seaborn=0.10.1
+  - scipy=1.8.0
+  - scikit-learn
+  - quail=0.2.2
+  - r-base=4.3.3
+  - r-brms=2.21.0
+  - r-rstan=2.32.6
+  - r-lme4=1.1.35.2
+  - r-loo=2.7.0
+  - r-ggplot2=3.5.0
+  - r-tibble=3.2.1
+  - r-kableextra=1.4.0
+  - r-dplyr=1.1.4
