@@ -1,3 +1,5 @@
+# Runs all primary analyses reported in the paper
+
 dpath = file.path(getwd(), "data")
 opath = file.path(getwd(), "output")
 exp_versions = c("1A", "1B", "2")
@@ -12,7 +14,12 @@ analysis_scripts <- c(
 manip_analysis_scripts <- c(
   "scripts/analyze_manipulation_exp.R",
   "scripts/analyze_manipulation_exp_overall_perf.R",
-  "scripts/analyze_manipulation_exp_memory.R"  # Removed trailing comma
+  "scripts/analyze_manipulation_exp_memory.R"
+)
+
+exp5_analysis_scripts <- c(
+  "scripts/analyze_exp5.R",
+  "scripts/analyze_exp5_memory.R",
 )
 
 for (version in exp_versions) {
@@ -34,3 +41,11 @@ for (version in manip_exp_versions) {
 cat(sprintf("\nRunning %s for version %s...\n", "scripts/analyze_final_round.R", "4"))
 system2("Rscript", args = c("scripts/analyze_final_round.R", dpath, opath, "4"))
 cat("Completed.\n")
+
+for (script in exp5_analysis_scripts) {
+  version <- "5"
+  cat(sprintf("\nRunning %s for version %s...\n", script, version))
+  system2("Rscript", args = c(script, dpath, opath, version))
+  cat("Completed.\n")
+}
+

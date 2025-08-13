@@ -1,0 +1,1576 @@
+wid,option,choice,rt,correct,trial_number,phase,n_images_with_option,n_images_with_option_wid,recalled_offer_value,true_offer_value
+w2e9806f,Objects,1.0,7427.0,1.0,1.0,choice,7.0,7,-1,1
+wf57281a,Objects,1.0,1764.0,1.0,4.0,choice,7.0,13,0,1
+wc861d09,Objects,1.0,5023.0,1.0,11.0,choice,7.0,8,6,1
+w3ef8767,Objects,0.0,3182.0,0.0,7.0,choice,7.0,10,5,1
+wb050285,Objects,1.0,1301.0,1.0,14.0,choice,7.0,11,-3,1
+w2c5d7eb,Objects,0.0,4005.0,0.0,19.0,choice,7.0,8,2,1
+w567d945,Objects,1.0,4125.0,1.0,1.0,choice,7.0,3,3,1
+wbf71104,Objects,0.0,2101.0,0.0,10.0,choice,7.0,10,1,1
+wdcba2fa,Objects,1.0,111.0,1.0,10.0,choice,7.0,3,-2,1
+w06dc745,Objects,1.0,1142.0,1.0,3.0,choice,7.0,4,5,1
+wd3b5cb5,Objects,0.0,4506.0,0.0,20.0,choice,7.0,8,4,1
+wea422b2,Objects,0.0,2874.0,0.0,27.0,choice,7.0,0,2,1
+w8b71afe,Objects,1.0,5075.0,1.0,16.0,choice,7.0,10,0,1
+wea26d76,Objects,1.0,4457.0,1.0,17.0,choice,7.0,4,2,1
+w28e335e,Objects,0.0,2188.0,0.0,14.0,choice,7.0,5,-1,1
+w8d04c13,Objects,1.0,2909.0,1.0,18.0,choice,7.0,7,1,1
+w882868f,Objects,,,0.0,1.0,choice,7.0,7,-2,1
+w973e0a4,Objects,1.0,3688.0,1.0,16.0,choice,7.0,8,3,1
+w38281a7,Objects,0.0,5308.0,0.0,22.0,choice,7.0,12,1,1
+w15afaeb,Objects,1.0,3425.0,1.0,8.0,choice,7.0,18,2,1
+we820c40,Objects,0.0,5079.0,0.0,20.0,choice,7.0,2,2,1
+wd1f6033,Objects,0.0,3738.0,0.0,12.0,choice,7.0,7,-2,1
+wa9588e1,Objects,,,0.0,1.0,choice,7.0,3,0,1
+w417dedd,Objects,0.0,1200.0,0.0,22.0,choice,7.0,4,-1,1
+waf5ed76,Objects,0.0,3267.0,0.0,4.0,choice,7.0,7,-2,1
+wb83a52c,Objects,0.0,5619.0,0.0,12.0,choice,7.0,13,1,1
+wf9d56e4,Objects,1.0,1250.0,1.0,10.0,choice,7.0,20,1,1
+w00c391f,Objects,1.0,2093.0,1.0,6.0,choice,7.0,6,1,1
+wae73c1f,Objects,0.0,2681.0,0.0,10.0,choice,7.0,3,-1,1
+wbdee46f,Objects,1.0,5966.0,1.0,1.0,choice,7.0,11,3,1
+wd1558cc,Objects,0.0,2445.0,0.0,6.0,choice,7.0,2,2,1
+w0cf8802,Objects,1.0,3457.0,1.0,4.0,choice,7.0,9,3,1
+w31b7dbe,Objects,1.0,5003.0,1.0,20.0,choice,7.0,0,2,1
+w1efb25c,Objects,1.0,2569.0,1.0,11.0,choice,7.0,8,0,1
+w017e3cd,Objects,1.0,2085.0,1.0,15.0,choice,7.0,11,5,1
+w865d6ad,Objects,0.0,2225.0,0.0,10.0,choice,7.0,17,4,1
+w4810e3e,Objects,1.0,3948.0,1.0,8.0,choice,7.0,13,-2,1
+w161eef2,Objects,0.0,1024.0,0.0,22.0,choice,7.0,8,3,1
+wd9e76e4,Objects,1.0,4549.0,1.0,4.0,choice,7.0,6,2,1
+w6355333,Objects,0.0,3880.0,0.0,13.0,choice,7.0,5,0,1
+wa620fe2,Objects,1.0,5362.0,1.0,26.0,choice,7.0,6,2,1
+w812d061,Objects,0.0,1142.0,0.0,15.0,choice,7.0,3,-1,1
+wf9347d8,Objects,0.0,3038.0,0.0,28.0,choice,7.0,2,2,1
+w5624f17,Objects,0.0,2216.0,0.0,25.0,choice,7.0,15,7,1
+wad2e584,Objects,1.0,581.0,1.0,5.0,choice,7.0,0,3,1
+wf2e46b5,Objects,1.0,273.0,1.0,28.0,choice,7.0,5,5,1
+wbff56f6,Objects,1.0,1105.0,1.0,17.0,choice,7.0,7,2,1
+w3067c35,Objects,1.0,2098.0,1.0,21.0,choice,7.0,0,5,1
+wc136bb6,Objects,1.0,833.0,1.0,2.0,choice,7.0,6,-2,1
+wa24f9fe,Objects,0.0,5574.0,0.0,6.0,choice,7.0,1,3,1
+w51d8142,Objects,1.0,2154.0,1.0,4.0,choice,7.0,14,-1,1
+wf7e1cf2,Objects,1.0,1195.0,1.0,20.0,choice,7.0,3,-1,1
+w915dec2,Objects,1.0,3602.0,1.0,27.0,choice,7.0,9,4,1
+w4e312fd,Objects,0.0,2891.0,0.0,26.0,choice,7.0,2,0,1
+w0c6daff,Objects,1.0,1929.0,1.0,24.0,choice,7.0,4,2,1
+w472a3b0,Objects,1.0,1648.0,1.0,18.0,choice,7.0,4,3,1
+w7b672a4,Objects,1.0,6838.0,1.0,1.0,choice,7.0,13,2,1
+wa06df17,Objects,0.0,2791.0,0.0,3.0,choice,7.0,2,1,1
+w0e327f3,Objects,0.0,5487.0,0.0,5.0,choice,7.0,5,1,1
+w1afb6bd,Objects,0.0,3559.0,0.0,20.0,choice,7.0,10,0,1
+w08dda5e,Objects,1.0,1181.0,1.0,15.0,choice,7.0,10,0,1
+w49dc7cd,Objects,1.0,2045.0,1.0,27.0,choice,7.0,1,2,1
+w7574933,Objects,,,0.0,20.0,choice,7.0,2,2,1
+w2e9806f,Clouds,1.0,3317.0,0.0,3.0,choice,2.0,2,0,-2
+wf57281a,Clouds,1.0,786.0,0.0,23.0,choice,2.0,2,0,-2
+wc861d09,Clouds,0.0,7311.0,1.0,19.0,choice,2.0,2,2,-2
+w3ef8767,Clouds,1.0,834.0,0.0,28.0,choice,2.0,2,0,-2
+wb050285,Clouds,0.0,1044.0,1.0,30.0,choice,2.0,2,0,-2
+w2c5d7eb,Clouds,0.0,3290.0,1.0,26.0,choice,2.0,3,-2,-2
+w567d945,Clouds,0.0,1847.0,1.0,11.0,choice,2.0,0,-2,-2
+wbf71104,Clouds,0.0,455.0,1.0,11.0,choice,2.0,1,0,-2
+wdcba2fa,Clouds,1.0,2769.0,0.0,19.0,choice,2.0,0,0,-2
+w06dc745,Clouds,1.0,2088.0,0.0,2.0,choice,2.0,0,0,-2
+wd3b5cb5,Clouds,0.0,4034.0,1.0,14.0,choice,2.0,0,1,-2
+wea422b2,Clouds,0.0,1734.0,1.0,5.0,choice,2.0,1,0,-2
+w8b71afe,Clouds,0.0,4526.0,1.0,23.0,choice,2.0,2,2,-2
+wea26d76,Clouds,1.0,4511.0,0.0,21.0,choice,2.0,2,0,-2
+w28e335e,Clouds,0.0,2217.0,1.0,23.0,choice,2.0,0,0,-2
+w8d04c13,Clouds,1.0,2906.0,0.0,1.0,choice,2.0,2,-1,-2
+w882868f,Clouds,0.0,4306.0,1.0,17.0,choice,2.0,2,-1,-2
+w973e0a4,Clouds,0.0,4072.0,1.0,11.0,choice,2.0,0,-1,-2
+w38281a7,Clouds,0.0,6610.0,1.0,14.0,choice,2.0,2,-2,-2
+w15afaeb,Clouds,0.0,5542.0,1.0,26.0,choice,2.0,2,1,-2
+we820c40,Clouds,0.0,1445.0,1.0,27.0,choice,2.0,1,0,-2
+wd1f6033,Clouds,0.0,593.0,1.0,13.0,choice,2.0,2,-2,-2
+wa9588e1,Clouds,0.0,1200.0,1.0,25.0,choice,2.0,2,-1,-2
+w417dedd,Clouds,0.0,2942.0,1.0,16.0,choice,2.0,2,0,-2
+waf5ed76,Clouds,1.0,749.0,0.0,17.0,choice,2.0,1,-2,-2
+wb83a52c,Clouds,1.0,2948.0,0.0,21.0,choice,2.0,2,0,-2
+wf9d56e4,Clouds,1.0,1483.0,0.0,24.0,choice,2.0,1,-1,-2
+w00c391f,Clouds,0.0,2640.0,1.0,4.0,choice,2.0,1,0,-2
+wae73c1f,Clouds,0.0,1507.0,1.0,8.0,choice,2.0,2,-2,-2
+wbdee46f,Clouds,0.0,4215.0,1.0,29.0,choice,2.0,2,-1,-2
+wd1558cc,Clouds,1.0,1554.0,0.0,5.0,choice,2.0,0,1,-2
+w0cf8802,Clouds,1.0,461.0,0.0,30.0,choice,2.0,1,1,-2
+w31b7dbe,Clouds,1.0,3431.0,0.0,21.0,choice,2.0,1,-1,-2
+w1efb25c,Clouds,0.0,5214.0,1.0,10.0,choice,2.0,2,-2,-2
+w017e3cd,Clouds,,,0.0,12.0,choice,2.0,2,0,-2
+w865d6ad,Clouds,0.0,96.0,1.0,9.0,choice,2.0,0,-1,-2
+w4810e3e,Clouds,1.0,1653.0,0.0,22.0,choice,2.0,2,2,-2
+w161eef2,Clouds,0.0,1821.0,1.0,15.0,choice,2.0,1,-1,-2
+wd9e76e4,Clouds,1.0,348.0,0.0,27.0,choice,2.0,3,1,-2
+w6355333,Clouds,0.0,1360.0,1.0,28.0,choice,2.0,1,-2,-2
+wa620fe2,Clouds,1.0,6194.0,0.0,1.0,choice,2.0,3,0,-2
+w812d061,Clouds,1.0,2909.0,0.0,23.0,choice,2.0,1,-1,-2
+wf9347d8,Clouds,1.0,1779.0,0.0,14.0,choice,2.0,2,0,-2
+w5624f17,Clouds,0.0,4457.0,1.0,6.0,choice,2.0,1,1,-2
+wad2e584,Clouds,0.0,852.0,1.0,18.0,choice,2.0,2,1,-2
+wf2e46b5,Clouds,1.0,1817.0,0.0,14.0,choice,2.0,1,1,-2
+wbff56f6,Clouds,0.0,2088.0,1.0,30.0,choice,2.0,1,-2,-2
+w3067c35,Clouds,1.0,2035.0,0.0,15.0,choice,2.0,0,0,-2
+wc136bb6,Clouds,1.0,492.0,0.0,19.0,choice,2.0,0,0,-2
+wa24f9fe,Clouds,0.0,358.0,1.0,28.0,choice,2.0,0,-1,-2
+w51d8142,Clouds,0.0,2020.0,1.0,19.0,choice,2.0,4,-1,-2
+wf7e1cf2,Clouds,0.0,2582.0,1.0,10.0,choice,2.0,0,0,-2
+w915dec2,Clouds,1.0,4836.0,0.0,29.0,choice,2.0,1,0,-2
+w4e312fd,Clouds,0.0,2560.0,1.0,4.0,choice,2.0,2,-1,-2
+w0c6daff,Clouds,0.0,2505.0,1.0,22.0,choice,2.0,2,-1,-2
+w472a3b0,Clouds,0.0,2772.0,1.0,6.0,choice,2.0,1,-1,-2
+w7b672a4,Clouds,0.0,1316.0,1.0,27.0,choice,2.0,0,1,-2
+wa06df17,Clouds,1.0,732.0,0.0,25.0,choice,2.0,2,-1,-2
+w0e327f3,Clouds,0.0,5597.0,1.0,26.0,choice,2.0,3,-2,-2
+w1afb6bd,Clouds,0.0,2146.0,1.0,8.0,choice,2.0,2,0,-2
+w08dda5e,Clouds,0.0,483.0,1.0,28.0,choice,2.0,2,1,-2
+w49dc7cd,Clouds,1.0,1517.0,0.0,15.0,choice,2.0,1,2,-2
+w7574933,Clouds,0.0,3939.0,1.0,7.0,choice,2.0,1,-1,-2
+w2e9806f,Produce ,1.0,1391.0,1.0,4.0,choice,6.0,6,0,2
+wf57281a,Produce ,1.0,914.0,1.0,10.0,choice,6.0,7,1,2
+wc861d09,Produce ,1.0,5550.0,1.0,29.0,choice,6.0,3,3,2
+w3ef8767,Produce ,1.0,1962.0,1.0,8.0,choice,6.0,6,1,2
+wb050285,Produce ,1.0,1283.0,1.0,1.0,choice,6.0,5,2,2
+w2c5d7eb,Produce ,1.0,1281.0,1.0,18.0,choice,6.0,6,0,2
+w567d945,Produce ,1.0,2097.0,1.0,2.0,choice,6.0,3,1,2
+wbf71104,Produce ,1.0,1271.0,1.0,13.0,choice,6.0,5,1,2
+wdcba2fa,Produce ,1.0,3643.0,1.0,4.0,choice,6.0,1,0,2
+w06dc745,Produce ,0.0,589.0,0.0,22.0,choice,6.0,4,3,2
+wd3b5cb5,Produce ,0.0,4251.0,0.0,15.0,choice,6.0,3,1,2
+wea422b2,Produce ,1.0,2784.0,1.0,3.0,choice,6.0,3,1,2
+w8b71afe,Produce ,1.0,1596.0,1.0,1.0,choice,6.0,6,2,2
+wea26d76,Produce ,0.0,6370.0,0.0,12.0,choice,6.0,6,3,2
+w28e335e,Produce ,1.0,6055.0,1.0,8.0,choice,6.0,3,3,2
+w8d04c13,Produce ,1.0,365.0,1.0,30.0,choice,6.0,6,2,2
+w882868f,Produce ,1.0,969.0,1.0,23.0,choice,6.0,4,1,2
+w973e0a4,Produce ,1.0,1729.0,1.0,4.0,choice,6.0,6,1,2
+w38281a7,Produce ,1.0,1769.0,1.0,30.0,choice,6.0,6,3,2
+w15afaeb,Produce ,0.0,7416.0,0.0,30.0,choice,6.0,6,-1,2
+we820c40,Produce ,,,0.0,14.0,choice,6.0,0,1,2
+wd1f6033,Produce ,0.0,1565.0,0.0,15.0,choice,6.0,1,1,2
+wa9588e1,Produce ,1.0,392.0,1.0,14.0,choice,6.0,5,2,2
+w417dedd,Produce ,1.0,1666.0,1.0,21.0,choice,6.0,6,2,2
+waf5ed76,Produce ,1.0,4075.0,1.0,6.0,choice,6.0,4,1,2
+wb83a52c,Produce ,1.0,617.0,1.0,20.0,choice,6.0,6,4,2
+wf9d56e4,Produce ,0.0,1963.0,0.0,5.0,choice,6.0,0,3,2
+w00c391f,Produce ,1.0,906.0,1.0,8.0,choice,6.0,5,1,2
+wae73c1f,Produce ,1.0,3543.0,1.0,25.0,choice,6.0,6,0,2
+wbdee46f,Produce ,1.0,3138.0,1.0,13.0,choice,6.0,4,2,2
+wd1558cc,Produce ,1.0,672.0,1.0,24.0,choice,6.0,4,0,2
+w0cf8802,Produce ,,,0.0,3.0,choice,6.0,5,0,2
+w31b7dbe,Produce ,1.0,6249.0,1.0,18.0,choice,6.0,1,2,2
+w1efb25c,Produce ,1.0,2998.0,1.0,26.0,choice,6.0,5,4,2
+w017e3cd,Produce ,1.0,2551.0,1.0,26.0,choice,6.0,6,3,2
+w865d6ad,Produce ,0.0,5205.0,0.0,1.0,choice,6.0,0,1,2
+w4810e3e,Produce ,1.0,2947.0,1.0,21.0,choice,6.0,6,-1,2
+w161eef2,Produce ,1.0,1891.0,1.0,20.0,choice,6.0,6,1,2
+wd9e76e4,Produce ,1.0,1337.0,1.0,30.0,choice,6.0,6,1,2
+w6355333,Produce ,1.0,5846.0,1.0,20.0,choice,6.0,6,3,2
+wa620fe2,Produce ,1.0,6177.0,1.0,13.0,choice,6.0,2,1,2
+w812d061,Produce ,0.0,2155.0,0.0,18.0,choice,6.0,7,2,2
+wf9347d8,Produce ,1.0,4090.0,1.0,3.0,choice,6.0,0,2,2
+w5624f17,Produce ,1.0,967.0,1.0,9.0,choice,6.0,6,2,2
+wad2e584,Produce ,1.0,2263.0,1.0,26.0,choice,6.0,6,-1,2
+wf2e46b5,Produce ,1.0,627.0,1.0,10.0,choice,6.0,5,3,2
+wbff56f6,Produce ,1.0,4093.0,1.0,19.0,choice,6.0,2,5,2
+w3067c35,Produce ,,,0.0,7.0,choice,6.0,0,2,2
+wc136bb6,Produce ,0.0,2172.0,0.0,28.0,choice,6.0,3,1,2
+wa24f9fe,Produce ,1.0,2142.0,1.0,17.0,choice,6.0,4,2,2
+w51d8142,Produce ,0.0,1164.0,0.0,23.0,choice,6.0,6,0,2
+wf7e1cf2,Produce ,1.0,617.0,1.0,15.0,choice,6.0,0,3,2
+w915dec2,Produce ,0.0,4313.0,0.0,25.0,choice,6.0,7,0,2
+w4e312fd,Produce ,0.0,1104.0,0.0,25.0,choice,6.0,6,0,2
+w0c6daff,Produce ,1.0,258.0,1.0,17.0,choice,6.0,6,3,2
+w472a3b0,Produce ,0.0,6843.0,0.0,20.0,choice,6.0,0,-1,2
+w7b672a4,Produce ,0.0,3154.0,0.0,22.0,choice,6.0,2,1,2
+wa06df17,Produce ,1.0,797.0,1.0,29.0,choice,6.0,4,1,2
+w0e327f3,Produce ,0.0,7170.0,0.0,28.0,choice,6.0,6,3,2
+w1afb6bd,Produce ,1.0,3433.0,1.0,29.0,choice,6.0,0,1,2
+w08dda5e,Produce ,0.0,1763.0,0.0,25.0,choice,6.0,5,2,2
+w49dc7cd,Produce ,1.0,780.0,1.0,25.0,choice,6.0,5,-1,2
+w7574933,Produce ,1.0,1834.0,1.0,18.0,choice,6.0,4,1,2
+w2e9806f,Animals,1.0,2779.0,0.0,7.0,choice,7.0,6,1,-3
+wf57281a,Animals,0.0,3808.0,1.0,8.0,choice,7.0,7,0,-3
+wc861d09,Animals,1.0,4664.0,0.0,23.0,choice,7.0,6,2,-3
+w3ef8767,Animals,0.0,961.0,1.0,5.0,choice,7.0,7,0,-3
+wb050285,Animals,0.0,1974.0,1.0,13.0,choice,7.0,6,0,-3
+w2c5d7eb,Animals,0.0,1788.0,1.0,5.0,choice,7.0,7,-3,-3
+w567d945,Animals,1.0,676.0,0.0,14.0,choice,7.0,4,-1,-3
+wbf71104,Animals,0.0,3317.0,1.0,7.0,choice,7.0,5,-1,-3
+wdcba2fa,Animals,0.0,1064.0,1.0,29.0,choice,7.0,5,2,-3
+w06dc745,Animals,0.0,2429.0,1.0,10.0,choice,7.0,4,-2,-3
+wd3b5cb5,Animals,0.0,4217.0,1.0,5.0,choice,7.0,7,-1,-3
+wea422b2,Animals,0.0,3649.0,1.0,18.0,choice,7.0,0,1,-3
+w8b71afe,Animals,0.0,4872.0,1.0,25.0,choice,7.0,7,0,-3
+wea26d76,Animals,1.0,3326.0,0.0,10.0,choice,7.0,6,3,-3
+w28e335e,Animals,1.0,319.0,0.0,24.0,choice,7.0,3,1,-3
+w8d04c13,Animals,0.0,5731.0,1.0,6.0,choice,7.0,7,0,-3
+w882868f,Animals,1.0,2267.0,0.0,9.0,choice,7.0,7,-2,-3
+w973e0a4,Animals,0.0,960.0,1.0,18.0,choice,7.0,7,1,-3
+w38281a7,Animals,0.0,4812.0,1.0,25.0,choice,7.0,7,-2,-3
+w15afaeb,Animals,0.0,6146.0,1.0,28.0,choice,7.0,7,0,-3
+we820c40,Animals,1.0,1077.0,0.0,28.0,choice,7.0,5,-1,-3
+wd1f6033,Animals,0.0,2293.0,1.0,27.0,choice,7.0,7,0,-3
+wa9588e1,Animals,0.0,4252.0,1.0,2.0,choice,7.0,6,2,-3
+w417dedd,Animals,1.0,1711.0,0.0,3.0,choice,7.0,7,0,-3
+waf5ed76,Animals,1.0,451.0,0.0,12.0,choice,7.0,5,-3,-3
+wb83a52c,Animals,1.0,1469.0,0.0,6.0,choice,7.0,5,0,-3
+wf9d56e4,Animals,0.0,4379.0,1.0,18.0,choice,7.0,7,0,-3
+w00c391f,Animals,0.0,2741.0,1.0,7.0,choice,7.0,7,2,-3
+wae73c1f,Animals,1.0,1239.0,0.0,9.0,choice,7.0,7,-1,-3
+wbdee46f,Animals,1.0,629.0,0.0,8.0,choice,7.0,7,0,-3
+wd1558cc,Animals,0.0,1317.0,1.0,7.0,choice,7.0,7,1,-3
+w0cf8802,Animals,0.0,2069.0,1.0,17.0,choice,7.0,6,1,-3
+w31b7dbe,Animals,1.0,1934.0,0.0,9.0,choice,7.0,3,1,-3
+w1efb25c,Animals,0.0,3279.0,1.0,24.0,choice,7.0,7,-1,-3
+w017e3cd,Animals,0.0,4556.0,1.0,25.0,choice,7.0,7,-3,-3
+w865d6ad,Animals,0.0,545.0,1.0,19.0,choice,7.0,6,-1,-3
+w4810e3e,Animals,1.0,3896.0,0.0,19.0,choice,7.0,5,1,-3
+w161eef2,Animals,0.0,1496.0,1.0,21.0,choice,7.0,3,-2,-3
+wd9e76e4,Animals,0.0,949.0,1.0,3.0,choice,7.0,6,5,-3
+w6355333,Animals,1.0,2464.0,0.0,7.0,choice,7.0,6,-2,-3
+wa620fe2,Animals,1.0,1270.0,0.0,3.0,choice,7.0,7,-1,-3
+w812d061,Animals,1.0,1715.0,0.0,2.0,choice,7.0,7,-1,-3
+wf9347d8,Animals,1.0,1435.0,0.0,21.0,choice,7.0,6,-4,-3
+w5624f17,Animals,0.0,3536.0,1.0,21.0,choice,7.0,7,0,-3
+wad2e584,Animals,1.0,2342.0,0.0,7.0,choice,7.0,4,2,-3
+wf2e46b5,Animals,1.0,1545.0,0.0,12.0,choice,7.0,5,0,-3
+wbff56f6,Animals,0.0,1547.0,1.0,7.0,choice,7.0,7,-2,-3
+w3067c35,Animals,0.0,2345.0,1.0,23.0,choice,7.0,0,1,-3
+wc136bb6,Animals,0.0,3127.0,1.0,1.0,choice,7.0,6,3,-3
+wa24f9fe,Animals,,,0.0,12.0,choice,7.0,1,-1,-3
+w51d8142,Animals,1.0,1086.0,0.0,6.0,choice,7.0,7,0,-3
+wf7e1cf2,Animals,1.0,1428.0,0.0,11.0,choice,7.0,4,1,-3
+w915dec2,Animals,,,0.0,21.0,choice,7.0,6,1,-3
+w4e312fd,Animals,0.0,1776.0,1.0,27.0,choice,7.0,6,2,-3
+w0c6daff,Animals,1.0,1754.0,0.0,15.0,choice,7.0,6,3,-3
+w472a3b0,Animals,0.0,3680.0,1.0,19.0,choice,7.0,6,-2,-3
+w7b672a4,Animals,1.0,750.0,0.0,23.0,choice,7.0,7,1,-3
+wa06df17,Animals,1.0,2863.0,0.0,27.0,choice,7.0,6,1,-3
+w0e327f3,Animals,1.0,1952.0,0.0,8.0,choice,7.0,6,-3,-3
+w1afb6bd,Animals,1.0,2769.0,0.0,19.0,choice,7.0,3,-1,-3
+w08dda5e,Animals,1.0,2702.0,0.0,14.0,choice,7.0,7,0,-3
+w49dc7cd,Animals,1.0,404.0,0.0,6.0,choice,7.0,7,2,-3
+w7574933,Animals,1.0,1405.0,0.0,17.0,choice,7.0,5,0,-3
+w2e9806f,Foods,1.0,5811.0,1.0,8.0,choice,7.0,4,0,3
+wf57281a,Foods,1.0,663.0,1.0,28.0,choice,7.0,8,2,3
+wc861d09,Foods,1.0,832.0,1.0,12.0,choice,7.0,7,4,3
+w3ef8767,Foods,0.0,2640.0,0.0,18.0,choice,7.0,5,1,3
+wb050285,Foods,1.0,544.0,1.0,16.0,choice,7.0,6,2,3
+w2c5d7eb,Foods,1.0,1303.0,1.0,27.0,choice,7.0,7,1,3
+w567d945,Foods,1.0,1978.0,1.0,24.0,choice,7.0,6,1,3
+wbf71104,Foods,0.0,1990.0,0.0,22.0,choice,7.0,4,1,3
+wdcba2fa,Foods,1.0,410.0,1.0,23.0,choice,7.0,6,0,3
+w06dc745,Foods,0.0,1975.0,0.0,16.0,choice,7.0,7,3,3
+wd3b5cb5,Foods,1.0,4009.0,1.0,11.0,choice,7.0,8,2,3
+wea422b2,Foods,1.0,5175.0,1.0,25.0,choice,7.0,0,2,3
+w8b71afe,Foods,1.0,5151.0,1.0,11.0,choice,7.0,8,3,3
+wea26d76,Foods,1.0,2627.0,1.0,23.0,choice,7.0,5,4,3
+w28e335e,Foods,1.0,2517.0,1.0,3.0,choice,7.0,7,4,3
+w8d04c13,Foods,1.0,784.0,1.0,20.0,choice,7.0,3,3,3
+w882868f,Foods,1.0,918.0,1.0,3.0,choice,7.0,7,1,3
+w973e0a4,Foods,1.0,1860.0,1.0,26.0,choice,7.0,0,2,3
+w38281a7,Foods,1.0,3293.0,1.0,16.0,choice,7.0,7,4,3
+w15afaeb,Foods,1.0,4934.0,1.0,15.0,choice,7.0,6,-1,3
+we820c40,Foods,1.0,1824.0,1.0,9.0,choice,7.0,6,1,3
+wd1f6033,Foods,1.0,2048.0,1.0,9.0,choice,7.0,7,2,3
+wa9588e1,Foods,1.0,336.0,1.0,20.0,choice,7.0,7,2,3
+w417dedd,Foods,1.0,1919.0,1.0,18.0,choice,7.0,6,2,3
+waf5ed76,Foods,1.0,1243.0,1.0,26.0,choice,7.0,6,1,3
+wb83a52c,Foods,1.0,756.0,1.0,26.0,choice,7.0,7,4,3
+wf9d56e4,Foods,1.0,277.0,1.0,25.0,choice,7.0,7,4,3
+w00c391f,Foods,0.0,1386.0,0.0,11.0,choice,7.0,2,1,3
+wae73c1f,Foods,1.0,4105.0,1.0,6.0,choice,7.0,6,1,3
+wbdee46f,Foods,1.0,5449.0,1.0,10.0,choice,7.0,2,2,3
+wd1558cc,Foods,1.0,671.0,1.0,20.0,choice,7.0,2,0,3
+w0cf8802,Foods,0.0,3795.0,0.0,2.0,choice,7.0,1,0,3
+w31b7dbe,Foods,0.0,5980.0,0.0,28.0,choice,7.0,0,2,3
+w1efb25c,Foods,1.0,1091.0,1.0,23.0,choice,7.0,7,5,3
+w017e3cd,Foods,1.0,1694.0,1.0,17.0,choice,7.0,5,3,3
+w865d6ad,Foods,1.0,1754.0,1.0,3.0,choice,7.0,7,2,3
+w4810e3e,Foods,1.0,3306.0,1.0,6.0,choice,7.0,7,0,3
+w161eef2,Foods,0.0,893.0,0.0,3.0,choice,7.0,5,1,3
+wd9e76e4,Foods,0.0,1667.0,0.0,6.0,choice,7.0,6,2,3
+w6355333,Foods,1.0,3582.0,1.0,14.0,choice,7.0,7,3,3
+wa620fe2,Foods,1.0,907.0,1.0,30.0,choice,7.0,7,2,3
+w812d061,Foods,1.0,1314.0,1.0,14.0,choice,7.0,7,2,3
+wf9347d8,Foods,1.0,3256.0,1.0,15.0,choice,7.0,5,3,3
+w5624f17,Foods,1.0,2094.0,1.0,28.0,choice,7.0,7,2,3
+wad2e584,Foods,1.0,4215.0,1.0,1.0,choice,7.0,6,-1,3
+wf2e46b5,Foods,1.0,46.0,1.0,20.0,choice,7.0,7,4,3
+wbff56f6,Foods,1.0,1424.0,1.0,29.0,choice,7.0,7,5,3
+w3067c35,Foods,1.0,1443.0,1.0,22.0,choice,7.0,0,2,3
+wc136bb6,Foods,0.0,3188.0,0.0,9.0,choice,7.0,4,2,3
+wa24f9fe,Foods,1.0,1244.0,1.0,22.0,choice,7.0,2,2,3
+w51d8142,Foods,0.0,3631.0,0.0,15.0,choice,7.0,7,0,3
+wf7e1cf2,Foods,1.0,3541.0,1.0,9.0,choice,7.0,7,3,3
+w915dec2,Foods,1.0,4512.0,1.0,24.0,choice,7.0,8,0,3
+w4e312fd,Foods,0.0,793.0,0.0,22.0,choice,7.0,7,0,3
+w0c6daff,Foods,0.0,1418.0,0.0,29.0,choice,7.0,3,3,3
+w472a3b0,Foods,1.0,5373.0,1.0,7.0,choice,7.0,0,-1,3
+w7b672a4,Foods,0.0,3211.0,0.0,12.0,choice,7.0,7,1,3
+wa06df17,Foods,1.0,2161.0,1.0,17.0,choice,7.0,0,1,3
+w0e327f3,Foods,1.0,3614.0,1.0,11.0,choice,7.0,6,4,3
+w1afb6bd,Foods,1.0,655.0,1.0,11.0,choice,7.0,6,2,3
+w08dda5e,Foods,1.0,1704.0,1.0,27.0,choice,7.0,6,3,3
+w49dc7cd,Foods,0.0,2979.0,0.0,11.0,choice,7.0,5,-1,3
+w7574933,Foods,0.0,6928.0,0.0,24.0,choice,7.0,6,2,3
+w2e9806f,Birds,0.0,1347.0,1.0,9.0,choice,3.0,3,-1,-3
+wf57281a,Birds,0.0,1043.0,1.0,30.0,choice,3.0,3,-1,-3
+wc861d09,Birds,,,0.0,2.0,choice,3.0,2,-1,-3
+w3ef8767,Birds,1.0,1275.0,0.0,20.0,choice,3.0,3,-1,-3
+wb050285,Birds,0.0,1387.0,1.0,24.0,choice,3.0,2,-2,-3
+w2c5d7eb,Birds,0.0,665.0,1.0,23.0,choice,3.0,3,-3,-3
+w567d945,Birds,0.0,2741.0,1.0,4.0,choice,3.0,2,-2,-3
+wbf71104,Birds,0.0,4197.0,1.0,20.0,choice,3.0,1,-2,-3
+wdcba2fa,Birds,0.0,130.0,1.0,7.0,choice,3.0,0,0,-3
+w06dc745,Birds,0.0,946.0,1.0,17.0,choice,3.0,2,-1,-3
+wd3b5cb5,Birds,0.0,3263.0,1.0,26.0,choice,3.0,0,-2,-3
+wea422b2,Birds,0.0,672.0,1.0,2.0,choice,3.0,1,-1,-3
+w8b71afe,Birds,1.0,2170.0,0.0,18.0,choice,3.0,3,-1,-3
+wea26d76,Birds,0.0,3004.0,1.0,29.0,choice,3.0,3,0,-3
+w28e335e,Birds,0.0,789.0,1.0,25.0,choice,3.0,3,-2,-3
+w8d04c13,Birds,0.0,585.0,1.0,29.0,choice,3.0,3,-2,-3
+w882868f,Birds,0.0,272.0,1.0,18.0,choice,3.0,3,-3,-3
+w973e0a4,Birds,0.0,1077.0,1.0,9.0,choice,3.0,3,0,-3
+w38281a7,Birds,0.0,1740.0,1.0,3.0,choice,3.0,3,-2,-3
+w15afaeb,Birds,0.0,4988.0,1.0,24.0,choice,3.0,3,-1,-3
+we820c40,Birds,0.0,973.0,1.0,22.0,choice,3.0,1,-3,-3
+wd1f6033,Birds,0.0,1145.0,1.0,23.0,choice,3.0,3,-1,-3
+wa9588e1,Birds,1.0,4220.0,0.0,5.0,choice,3.0,1,1,-3
+w417dedd,Birds,0.0,937.0,1.0,2.0,choice,3.0,3,-1,-3
+waf5ed76,Birds,0.0,1123.0,1.0,13.0,choice,3.0,1,-3,-3
+wb83a52c,Birds,1.0,6391.0,0.0,2.0,choice,3.0,2,-1,-3
+wf9d56e4,Birds,0.0,3564.0,1.0,3.0,choice,3.0,3,-1,-3
+w00c391f,Birds,1.0,2122.0,0.0,1.0,choice,3.0,3,1,-3
+wae73c1f,Birds,0.0,7066.0,1.0,19.0,choice,3.0,3,-1,-3
+wbdee46f,Birds,0.0,4334.0,1.0,14.0,choice,3.0,3,-1,-3
+wd1558cc,Birds,0.0,739.0,1.0,28.0,choice,3.0,3,0,-3
+w0cf8802,Birds,1.0,677.0,0.0,8.0,choice,3.0,2,0,-3
+w31b7dbe,Birds,0.0,2161.0,1.0,29.0,choice,3.0,4,-1,-3
+w1efb25c,Birds,0.0,2058.0,1.0,30.0,choice,3.0,3,-1,-3
+w017e3cd,Birds,0.0,2186.0,1.0,1.0,choice,3.0,1,-2,-3
+w865d6ad,Birds,0.0,585.0,1.0,30.0,choice,3.0,2,-2,-3
+w4810e3e,Birds,0.0,1313.0,1.0,9.0,choice,3.0,3,-1,-3
+w161eef2,Birds,0.0,2639.0,1.0,26.0,choice,3.0,3,0,-3
+wd9e76e4,Birds,0.0,872.0,1.0,5.0,choice,3.0,4,2,-3
+w6355333,Birds,0.0,300.0,1.0,12.0,choice,3.0,3,-2,-3
+wa620fe2,Birds,0.0,1075.0,1.0,15.0,choice,3.0,4,-3,-3
+w812d061,Birds,1.0,610.0,0.0,5.0,choice,3.0,0,0,-3
+wf9347d8,Birds,0.0,591.0,1.0,25.0,choice,3.0,3,-2,-3
+w5624f17,Birds,0.0,2082.0,1.0,7.0,choice,3.0,3,-1,-3
+wad2e584,Birds,0.0,4042.0,1.0,6.0,choice,3.0,3,0,-3
+wf2e46b5,Birds,1.0,1957.0,0.0,8.0,choice,3.0,3,0,-3
+wbff56f6,Birds,0.0,3275.0,1.0,20.0,choice,3.0,2,-2,-3
+w3067c35,Birds,0.0,1125.0,1.0,26.0,choice,3.0,1,1,-3
+wc136bb6,Birds,0.0,654.0,1.0,7.0,choice,3.0,3,0,-3
+wa24f9fe,Birds,0.0,796.0,1.0,20.0,choice,3.0,2,-2,-3
+w51d8142,Birds,0.0,1845.0,1.0,25.0,choice,3.0,4,-1,-3
+wf7e1cf2,Birds,1.0,708.0,0.0,22.0,choice,3.0,3,0,-3
+w915dec2,Birds,0.0,470.0,1.0,28.0,choice,3.0,3,-1,-3
+w4e312fd,Birds,0.0,658.0,1.0,28.0,choice,3.0,3,0,-3
+w0c6daff,Birds,0.0,1110.0,1.0,14.0,choice,3.0,3,0,-3
+w472a3b0,Birds,0.0,571.0,1.0,5.0,choice,3.0,3,-2,-3
+w7b672a4,Birds,1.0,1085.0,0.0,28.0,choice,3.0,2,0,-3
+wa06df17,Birds,1.0,3634.0,0.0,19.0,choice,3.0,2,1,-3
+w0e327f3,Birds,1.0,5886.0,0.0,4.0,choice,3.0,3,-3,-3
+w1afb6bd,Birds,0.0,1437.0,1.0,22.0,choice,3.0,3,-3,-3
+w08dda5e,Birds,0.0,2333.0,1.0,8.0,choice,3.0,3,-2,-3
+w49dc7cd,Birds,0.0,1560.0,1.0,13.0,choice,3.0,0,-1,-3
+w7574933,Birds,0.0,2166.0,1.0,29.0,choice,3.0,3,0,-3
+w2e9806f,Mammals,1.0,3163.0,1.0,10.0,choice,3.0,2,2,1
+wf57281a,Mammals,1.0,1144.0,1.0,12.0,choice,3.0,3,2,1
+wc861d09,Mammals,0.0,4011.0,0.0,17.0,choice,3.0,3,3,1
+w3ef8767,Mammals,0.0,2028.0,0.0,22.0,choice,3.0,3,1,1
+wb050285,Mammals,0.0,108.0,0.0,4.0,choice,3.0,4,3,1
+w2c5d7eb,Mammals,1.0,1117.0,1.0,4.0,choice,3.0,3,1,1
+w567d945,Mammals,0.0,7428.0,0.0,18.0,choice,3.0,3,1,1
+wbf71104,Mammals,0.0,2327.0,0.0,6.0,choice,3.0,6,0,1
+wdcba2fa,Mammals,1.0,3703.0,1.0,13.0,choice,3.0,3,1,1
+w06dc745,Mammals,0.0,2187.0,0.0,13.0,choice,3.0,2,0,1
+wd3b5cb5,Mammals,0.0,4780.0,0.0,30.0,choice,3.0,5,2,1
+wea422b2,Mammals,,,0.0,23.0,choice,3.0,1,2,1
+w8b71afe,Mammals,1.0,5682.0,1.0,28.0,choice,3.0,3,1,1
+wea26d76,Mammals,1.0,3874.0,1.0,7.0,choice,3.0,3,3,1
+w28e335e,Mammals,0.0,2418.0,0.0,17.0,choice,3.0,3,2,1
+w8d04c13,Mammals,0.0,4726.0,0.0,9.0,choice,3.0,6,2,1
+w882868f,Mammals,1.0,1535.0,1.0,13.0,choice,3.0,2,2,1
+w973e0a4,Mammals,,,0.0,7.0,choice,3.0,3,2,1
+w38281a7,Mammals,1.0,5157.0,1.0,21.0,choice,3.0,3,1,1
+w15afaeb,Mammals,1.0,5627.0,1.0,11.0,choice,3.0,3,2,1
+we820c40,Mammals,,,0.0,1.0,choice,3.0,3,2,1
+wd1f6033,Mammals,0.0,4832.0,0.0,1.0,choice,3.0,2,1,1
+wa9588e1,Mammals,0.0,370.0,0.0,12.0,choice,3.0,2,1,1
+w417dedd,Mammals,1.0,1948.0,1.0,7.0,choice,3.0,3,1,1
+waf5ed76,Mammals,0.0,2278.0,0.0,2.0,choice,3.0,3,1,1
+wb83a52c,Mammals,1.0,1080.0,1.0,16.0,choice,3.0,3,1,1
+wf9d56e4,Mammals,1.0,2160.0,1.0,19.0,choice,3.0,3,1,1
+w00c391f,Mammals,1.0,1406.0,1.0,24.0,choice,3.0,3,1,1
+wae73c1f,Mammals,0.0,823.0,0.0,24.0,choice,3.0,3,1,1
+wbdee46f,Mammals,1.0,565.0,1.0,17.0,choice,3.0,3,2,1
+wd1558cc,Mammals,0.0,2137.0,0.0,19.0,choice,3.0,3,1,1
+w0cf8802,Mammals,1.0,3862.0,1.0,26.0,choice,3.0,3,1,1
+w31b7dbe,Mammals,0.0,2698.0,0.0,6.0,choice,3.0,1,2,1
+w1efb25c,Mammals,1.0,4959.0,1.0,9.0,choice,3.0,0,1,1
+w017e3cd,Mammals,1.0,4431.0,1.0,28.0,choice,3.0,3,0,1
+w865d6ad,Mammals,1.0,3615.0,1.0,23.0,choice,3.0,3,1,1
+w4810e3e,Mammals,1.0,3759.0,1.0,27.0,choice,3.0,4,3,1
+w161eef2,Mammals,1.0,913.0,1.0,13.0,choice,3.0,3,-2,1
+wd9e76e4,Mammals,0.0,2966.0,0.0,8.0,choice,3.0,7,3,1
+w6355333,Mammals,0.0,3670.0,0.0,9.0,choice,3.0,3,1,1
+wa620fe2,Mammals,1.0,2126.0,1.0,18.0,choice,3.0,4,2,1
+w812d061,Mammals,1.0,432.0,1.0,13.0,choice,3.0,5,-1,1
+wf9347d8,Mammals,1.0,1164.0,1.0,23.0,choice,3.0,3,-1,1
+w5624f17,Mammals,0.0,841.0,0.0,26.0,choice,3.0,4,2,1
+wad2e584,Mammals,0.0,1575.0,0.0,3.0,choice,3.0,1,1,1
+wf2e46b5,Mammals,0.0,839.0,0.0,21.0,choice,3.0,3,0,1
+wbff56f6,Mammals,1.0,5976.0,1.0,14.0,choice,3.0,4,1,1
+w3067c35,Mammals,1.0,5745.0,1.0,5.0,choice,3.0,4,0,1
+wc136bb6,Mammals,0.0,3035.0,0.0,25.0,choice,3.0,4,3,1
+wa24f9fe,Mammals,1.0,1765.0,1.0,30.0,choice,3.0,2,2,1
+w51d8142,Mammals,1.0,3384.0,1.0,21.0,choice,3.0,6,1,1
+wf7e1cf2,Mammals,1.0,3150.0,1.0,25.0,choice,3.0,0,1,1
+w915dec2,Mammals,1.0,406.0,1.0,14.0,choice,3.0,5,2,1
+w4e312fd,Mammals,1.0,2820.0,1.0,7.0,choice,3.0,3,2,1
+w0c6daff,Mammals,0.0,1985.0,0.0,2.0,choice,3.0,6,2,1
+w472a3b0,Mammals,1.0,671.0,1.0,8.0,choice,3.0,3,1,1
+w7b672a4,Mammals,0.0,1572.0,0.0,29.0,choice,3.0,2,1,1
+wa06df17,Mammals,1.0,6389.0,1.0,1.0,choice,3.0,4,1,1
+w0e327f3,Mammals,1.0,5249.0,1.0,2.0,choice,3.0,6,1,1
+w1afb6bd,Mammals,1.0,2866.0,1.0,27.0,choice,3.0,3,3,1
+w08dda5e,Mammals,1.0,4504.0,1.0,29.0,choice,3.0,6,2,1
+w49dc7cd,Mammals,1.0,479.0,1.0,22.0,choice,3.0,0,3,1
+w7574933,Mammals,1.0,1520.0,1.0,30.0,choice,3.0,6,1,1
+w2e9806f,Insects,0.0,1837.0,1.0,11.0,choice,1.0,1,0,-1
+wf57281a,Insects,0.0,744.0,1.0,22.0,choice,1.0,1,-1,-1
+wc861d09,Insects,0.0,2494.0,1.0,8.0,choice,1.0,0,0,-1
+w3ef8767,Insects,0.0,980.0,1.0,17.0,choice,1.0,1,0,-1
+wb050285,Insects,0.0,3214.0,1.0,22.0,choice,1.0,1,-1,-1
+w2c5d7eb,Insects,0.0,2650.0,1.0,29.0,choice,1.0,1,-1,-1
+w567d945,Insects,0.0,4297.0,1.0,5.0,choice,1.0,1,0,-1
+wbf71104,Insects,0.0,1573.0,1.0,25.0,choice,1.0,1,1,-1
+wdcba2fa,Insects,1.0,1341.0,0.0,17.0,choice,1.0,0,1,-1
+w06dc745,Insects,0.0,796.0,1.0,20.0,choice,1.0,1,-1,-1
+wd3b5cb5,Insects,0.0,6468.0,1.0,25.0,choice,1.0,1,-1,-1
+wea422b2,Insects,0.0,746.0,1.0,4.0,choice,1.0,0,0,-1
+w8b71afe,Insects,1.0,3044.0,0.0,7.0,choice,1.0,1,0,-1
+wea26d76,Insects,0.0,4816.0,1.0,16.0,choice,1.0,0,0,-1
+w28e335e,Insects,0.0,4176.0,1.0,18.0,choice,1.0,1,1,-1
+w8d04c13,Insects,0.0,2418.0,1.0,12.0,choice,1.0,1,0,-1
+w882868f,Insects,0.0,540.0,1.0,11.0,choice,1.0,0,-1,-1
+w973e0a4,Insects,0.0,1454.0,1.0,21.0,choice,1.0,1,-1,-1
+w38281a7,Insects,0.0,2354.0,1.0,18.0,choice,1.0,1,-1,-1
+w15afaeb,Insects,0.0,1792.0,1.0,4.0,choice,1.0,1,-1,-1
+we820c40,Insects,0.0,1516.0,1.0,5.0,choice,1.0,1,0,-1
+wd1f6033,Insects,0.0,3599.0,1.0,25.0,choice,1.0,0,0,-1
+wa9588e1,Insects,0.0,399.0,1.0,27.0,choice,1.0,1,0,-1
+w417dedd,Insects,0.0,2161.0,1.0,11.0,choice,1.0,1,0,-1
+waf5ed76,Insects,0.0,632.0,1.0,10.0,choice,1.0,1,-1,-1
+wb83a52c,Insects,0.0,1466.0,1.0,19.0,choice,1.0,1,0,-1
+wf9d56e4,Insects,,,0.0,15.0,choice,1.0,1,0,-1
+w00c391f,Insects,1.0,2764.0,0.0,2.0,choice,1.0,1,0,-1
+wae73c1f,Insects,0.0,2830.0,1.0,14.0,choice,1.0,1,-1,-1
+wbdee46f,Insects,0.0,1358.0,1.0,21.0,choice,1.0,1,-1,-1
+wd1558cc,Insects,0.0,1763.0,1.0,12.0,choice,1.0,0,0,-1
+w0cf8802,Insects,0.0,2022.0,1.0,10.0,choice,1.0,1,0,-1
+w31b7dbe,Insects,1.0,5250.0,0.0,10.0,choice,1.0,0,0,-1
+w1efb25c,Insects,0.0,1251.0,1.0,27.0,choice,1.0,1,-1,-1
+w017e3cd,Insects,0.0,3633.0,1.0,13.0,choice,1.0,1,-1,-1
+w865d6ad,Insects,0.0,539.0,1.0,20.0,choice,1.0,1,0,-1
+w4810e3e,Insects,0.0,2215.0,1.0,16.0,choice,1.0,1,-1,-1
+w161eef2,Insects,1.0,1219.0,0.0,14.0,choice,1.0,1,0,-1
+wd9e76e4,Insects,0.0,1317.0,1.0,7.0,choice,1.0,2,0,-1
+w6355333,Insects,0.0,6032.0,1.0,6.0,choice,1.0,1,-1,-1
+wa620fe2,Insects,0.0,2070.0,1.0,24.0,choice,1.0,1,0,-1
+w812d061,Insects,0.0,474.0,1.0,3.0,choice,1.0,1,0,-1
+wf9347d8,Insects,0.0,1993.0,1.0,19.0,choice,1.0,1,-1,-1
+w5624f17,Insects,0.0,915.0,1.0,27.0,choice,1.0,1,-1,-1
+wad2e584,Insects,0.0,3203.0,1.0,8.0,choice,1.0,1,1,-1
+wf2e46b5,Insects,0.0,230.0,1.0,27.0,choice,1.0,1,0,-1
+wbff56f6,Insects,0.0,1471.0,1.0,27.0,choice,1.0,1,-1,-1
+w3067c35,Insects,0.0,1392.0,1.0,12.0,choice,1.0,0,0,-1
+wc136bb6,Insects,0.0,3685.0,1.0,18.0,choice,1.0,1,0,-1
+wa24f9fe,Insects,,,0.0,29.0,choice,1.0,1,-1,-1
+w51d8142,Insects,0.0,965.0,1.0,16.0,choice,1.0,1,0,-1
+wf7e1cf2,Insects,0.0,3058.0,1.0,2.0,choice,1.0,0,0,-1
+w915dec2,Insects,0.0,1657.0,1.0,4.0,choice,1.0,1,0,-1
+w4e312fd,Insects,0.0,1290.0,1.0,17.0,choice,1.0,1,0,-1
+w0c6daff,Insects,0.0,1637.0,1.0,1.0,choice,1.0,1,1,-1
+w472a3b0,Insects,0.0,3807.0,1.0,23.0,choice,1.0,1,-1,-1
+w7b672a4,Insects,0.0,3104.0,1.0,10.0,choice,1.0,0,0,-1
+wa06df17,Insects,0.0,3394.0,1.0,18.0,choice,1.0,1,-1,-1
+w0e327f3,Insects,,,0.0,1.0,choice,1.0,1,-1,-1
+w1afb6bd,Insects,0.0,2283.0,1.0,4.0,choice,1.0,1,-1,-1
+w08dda5e,Insects,0.0,1087.0,1.0,18.0,choice,1.0,1,0,-1
+w49dc7cd,Insects,0.0,995.0,1.0,23.0,choice,1.0,1,0,-1
+w7574933,Insects,0.0,686.0,1.0,11.0,choice,1.0,1,-1,-1
+w2e9806f,Sky,1.0,2305.0,0.0,12.0,choice,4.0,3,0,-2
+wf57281a,Sky,0.0,3938.0,1.0,11.0,choice,4.0,2,-2,-2
+wc861d09,Sky,0.0,5153.0,1.0,27.0,choice,4.0,2,2,-2
+w3ef8767,Sky,0.0,2968.0,1.0,26.0,choice,4.0,3,2,-2
+wb050285,Sky,0.0,912.0,1.0,26.0,choice,4.0,4,-1,-2
+w2c5d7eb,Sky,0.0,1935.0,1.0,30.0,choice,4.0,5,-2,-2
+w567d945,Sky,1.0,7128.0,0.0,13.0,choice,4.0,1,-2,-2
+wbf71104,Sky,0.0,742.0,1.0,8.0,choice,4.0,1,0,-2
+wdcba2fa,Sky,0.0,542.0,1.0,18.0,choice,4.0,2,0,-2
+w06dc745,Sky,1.0,1981.0,0.0,7.0,choice,4.0,1,1,-2
+wd3b5cb5,Sky,0.0,2980.0,1.0,27.0,choice,4.0,4,1,-2
+wea422b2,Sky,0.0,5324.0,1.0,9.0,choice,4.0,1,1,-2
+w8b71afe,Sky,0.0,6328.0,1.0,27.0,choice,4.0,4,2,-2
+wea26d76,Sky,0.0,3628.0,1.0,26.0,choice,4.0,3,2,-2
+w28e335e,Sky,0.0,5191.0,1.0,7.0,choice,4.0,1,-1,-2
+w8d04c13,Sky,1.0,631.0,0.0,15.0,choice,4.0,2,0,-2
+w882868f,Sky,0.0,2398.0,1.0,27.0,choice,4.0,4,-1,-2
+w973e0a4,Sky,0.0,808.0,1.0,30.0,choice,4.0,3,-1,-2
+w38281a7,Sky,,,0.0,4.0,choice,4.0,3,-2,-2
+w15afaeb,Sky,1.0,5624.0,0.0,22.0,choice,4.0,4,1,-2
+we820c40,Sky,0.0,379.0,1.0,30.0,choice,4.0,2,0,-2
+wd1f6033,Sky,0.0,449.0,1.0,14.0,choice,4.0,2,-2,-2
+wa9588e1,Sky,1.0,1294.0,0.0,26.0,choice,4.0,3,-2,-2
+w417dedd,Sky,1.0,1476.0,0.0,17.0,choice,4.0,4,-1,-2
+waf5ed76,Sky,1.0,2142.0,0.0,25.0,choice,4.0,3,-2,-2
+wb83a52c,Sky,1.0,5383.0,0.0,8.0,choice,4.0,5,0,-2
+wf9d56e4,Sky,1.0,1180.0,0.0,30.0,choice,4.0,4,-1,-2
+w00c391f,Sky,0.0,1344.0,1.0,9.0,choice,4.0,1,0,-2
+wae73c1f,Sky,0.0,6249.0,1.0,18.0,choice,4.0,3,-2,-2
+wbdee46f,Sky,0.0,3121.0,1.0,18.0,choice,4.0,3,-1,-2
+wd1558cc,Sky,1.0,1793.0,0.0,18.0,choice,4.0,3,1,-2
+w0cf8802,Sky,1.0,3474.0,0.0,1.0,choice,4.0,2,2,-2
+w31b7dbe,Sky,1.0,4799.0,0.0,15.0,choice,4.0,0,-1,-2
+w1efb25c,Sky,1.0,2861.0,0.0,18.0,choice,4.0,3,-2,-2
+w017e3cd,Sky,0.0,7279.0,1.0,4.0,choice,4.0,3,1,-2
+w865d6ad,Sky,0.0,896.0,1.0,17.0,choice,4.0,0,0,-2
+w4810e3e,Sky,1.0,5912.0,0.0,20.0,choice,4.0,4,1,-2
+w161eef2,Sky,1.0,335.0,0.0,12.0,choice,4.0,2,0,-2
+wd9e76e4,Sky,1.0,800.0,0.0,26.0,choice,4.0,5,2,-2
+w6355333,Sky,0.0,491.0,1.0,29.0,choice,4.0,4,-2,-2
+wa620fe2,Sky,1.0,4879.0,0.0,16.0,choice,4.0,5,0,-2
+w812d061,Sky,1.0,428.0,0.0,21.0,choice,4.0,4,-1,-2
+wf9347d8,Sky,1.0,2855.0,0.0,10.0,choice,4.0,4,0,-2
+w5624f17,Sky,1.0,2467.0,0.0,2.0,choice,4.0,3,1,-2
+wad2e584,Sky,1.0,316.0,0.0,21.0,choice,4.0,3,0,-2
+wf2e46b5,Sky,1.0,583.0,0.0,25.0,choice,4.0,2,2,-2
+wbff56f6,Sky,0.0,4716.0,1.0,9.0,choice,4.0,3,-2,-2
+w3067c35,Sky,1.0,507.0,0.0,19.0,choice,4.0,0,2,-2
+wc136bb6,Sky,1.0,1512.0,0.0,21.0,choice,4.0,3,0,-2
+wa24f9fe,Sky,0.0,5594.0,1.0,24.0,choice,4.0,3,-1,-2
+w51d8142,Sky,0.0,1212.0,1.0,7.0,choice,4.0,4,-1,-2
+wf7e1cf2,Sky,1.0,3348.0,0.0,24.0,choice,4.0,3,0,-2
+w915dec2,Sky,1.0,2831.0,0.0,5.0,choice,4.0,3,0,-2
+w4e312fd,Sky,0.0,523.0,1.0,23.0,choice,4.0,0,0,-2
+w0c6daff,Sky,0.0,1826.0,1.0,4.0,choice,4.0,3,0,-2
+w472a3b0,Sky,0.0,423.0,1.0,27.0,choice,4.0,0,-1,-2
+w7b672a4,Sky,0.0,1497.0,1.0,15.0,choice,4.0,0,2,-2
+wa06df17,Sky,1.0,3847.0,0.0,11.0,choice,4.0,3,0,-2
+w0e327f3,Sky,,,0.0,7.0,choice,4.0,3,-2,-2
+w1afb6bd,Sky,0.0,274.0,1.0,24.0,choice,4.0,4,0,-2
+w08dda5e,Sky,1.0,1759.0,0.0,21.0,choice,4.0,4,-1,-2
+w49dc7cd,Sky,0.0,4898.0,1.0,3.0,choice,4.0,1,1,-2
+w7574933,Sky,1.0,3412.0,0.0,14.0,choice,4.0,3,0,-2
+w2e9806f,Vegetables,1.0,2762.0,1.0,13.0,choice,3.0,3,-1,1
+wf57281a,Vegetables,1.0,3039.0,1.0,25.0,choice,3.0,3,1,1
+wc861d09,Vegetables,0.0,5981.0,0.0,22.0,choice,3.0,3,1,1
+w3ef8767,Vegetables,1.0,2362.0,1.0,3.0,choice,3.0,3,2,1
+wb050285,Vegetables,1.0,624.0,1.0,25.0,choice,3.0,3,1,1
+w2c5d7eb,Vegetables,0.0,3405.0,0.0,11.0,choice,3.0,3,-1,1
+w567d945,Vegetables,1.0,7314.0,1.0,22.0,choice,3.0,3,2,1
+wbf71104,Vegetables,1.0,1039.0,1.0,9.0,choice,3.0,3,0,1
+wdcba2fa,Vegetables,1.0,388.0,1.0,6.0,choice,3.0,3,0,1
+w06dc745,Vegetables,0.0,1252.0,0.0,12.0,choice,3.0,3,1,1
+wd3b5cb5,Vegetables,1.0,2756.0,1.0,21.0,choice,3.0,1,0,1
+wea422b2,Vegetables,1.0,322.0,1.0,30.0,choice,3.0,0,0,1
+w8b71afe,Vegetables,1.0,3817.0,1.0,13.0,choice,3.0,3,0,1
+wea26d76,Vegetables,0.0,2002.0,0.0,24.0,choice,3.0,3,1,1
+w28e335e,Vegetables,0.0,6958.0,0.0,6.0,choice,3.0,3,2,1
+w8d04c13,Vegetables,1.0,2567.0,1.0,23.0,choice,3.0,3,1,1
+w882868f,Vegetables,1.0,896.0,1.0,12.0,choice,3.0,1,0,1
+w973e0a4,Vegetables,1.0,733.0,1.0,23.0,choice,3.0,1,2,1
+w38281a7,Vegetables,1.0,2049.0,1.0,23.0,choice,3.0,3,2,1
+w15afaeb,Vegetables,0.0,589.0,0.0,23.0,choice,3.0,3,-1,1
+we820c40,Vegetables,1.0,1506.0,1.0,11.0,choice,3.0,3,0,1
+wd1f6033,Vegetables,0.0,1382.0,0.0,5.0,choice,3.0,2,0,1
+wa9588e1,Vegetables,1.0,1250.0,1.0,8.0,choice,3.0,3,1,1
+w417dedd,Vegetables,1.0,293.0,1.0,29.0,choice,3.0,2,1,1
+waf5ed76,Vegetables,1.0,926.0,1.0,24.0,choice,3.0,3,2,1
+wb83a52c,Vegetables,1.0,2530.0,1.0,3.0,choice,3.0,3,2,1
+wf9d56e4,Vegetables,0.0,1075.0,0.0,23.0,choice,3.0,3,1,1
+w00c391f,Vegetables,0.0,2539.0,0.0,29.0,choice,3.0,2,1,1
+wae73c1f,Vegetables,1.0,3117.0,1.0,26.0,choice,3.0,3,-1,1
+wbdee46f,Vegetables,1.0,3862.0,1.0,19.0,choice,3.0,3,0,1
+wd1558cc,Vegetables,1.0,1037.0,1.0,1.0,choice,3.0,2,0,1
+w0cf8802,Vegetables,0.0,637.0,0.0,15.0,choice,3.0,3,0,1
+w31b7dbe,Vegetables,0.0,2154.0,0.0,8.0,choice,3.0,3,1,1
+w1efb25c,Vegetables,1.0,950.0,1.0,20.0,choice,3.0,3,2,1
+w017e3cd,Vegetables,1.0,3361.0,1.0,29.0,choice,3.0,3,2,1
+w865d6ad,Vegetables,1.0,5426.0,1.0,12.0,choice,3.0,3,2,1
+w4810e3e,Vegetables,0.0,2338.0,0.0,23.0,choice,3.0,3,-1,1
+w161eef2,Vegetables,1.0,558.0,1.0,4.0,choice,3.0,4,0,1
+wd9e76e4,Vegetables,1.0,1806.0,1.0,10.0,choice,3.0,3,1,1
+w6355333,Vegetables,1.0,5532.0,1.0,15.0,choice,3.0,2,0,1
+wa620fe2,Vegetables,1.0,5279.0,1.0,10.0,choice,3.0,3,0,1
+w812d061,Vegetables,0.0,581.0,0.0,12.0,choice,3.0,3,0,1
+wf9347d8,Vegetables,1.0,2062.0,1.0,8.0,choice,3.0,3,1,1
+w5624f17,Vegetables,1.0,5758.0,1.0,1.0,choice,3.0,3,1,1
+wad2e584,Vegetables,1.0,2416.0,1.0,14.0,choice,3.0,2,1,1
+wf2e46b5,Vegetables,1.0,567.0,1.0,19.0,choice,3.0,3,1,1
+wbff56f6,Vegetables,1.0,2004.0,1.0,11.0,choice,3.0,3,3,1
+w3067c35,Vegetables,1.0,391.0,1.0,28.0,choice,3.0,4,1,1
+wc136bb6,Vegetables,0.0,6166.0,0.0,22.0,choice,3.0,2,0,1
+wa24f9fe,Vegetables,1.0,4900.0,1.0,16.0,choice,3.0,2,0,1
+w51d8142,Vegetables,1.0,1750.0,1.0,1.0,choice,3.0,4,-1,1
+wf7e1cf2,Vegetables,0.0,884.0,0.0,5.0,choice,3.0,3,2,1
+w915dec2,Vegetables,1.0,6119.0,1.0,3.0,choice,3.0,3,1,1
+w4e312fd,Vegetables,0.0,434.0,0.0,30.0,choice,3.0,3,0,1
+w0c6daff,Vegetables,1.0,134.0,1.0,21.0,choice,3.0,2,1,1
+w472a3b0,Vegetables,1.0,4383.0,1.0,15.0,choice,3.0,3,-1,1
+w7b672a4,Vegetables,1.0,3812.0,1.0,5.0,choice,3.0,1,0,1
+wa06df17,Vegetables,1.0,4006.0,1.0,7.0,choice,3.0,3,1,1
+w0e327f3,Vegetables,0.0,7283.0,0.0,18.0,choice,3.0,2,1,1
+w1afb6bd,Vegetables,1.0,2365.0,1.0,9.0,choice,3.0,3,0,1
+w08dda5e,Vegetables,1.0,1801.0,1.0,13.0,choice,3.0,3,-1,1
+w49dc7cd,Vegetables,0.0,1547.0,0.0,5.0,choice,3.0,3,-1,1
+w7574933,Vegetables,0.0,4704.0,0.0,1.0,choice,3.0,2,0,1
+w2e9806f,Pets,1.0,718.0,1.0,14.0,choice,2.0,2,2,2
+wf57281a,Pets,1.0,631.0,1.0,2.0,choice,2.0,3,2,2
+wc861d09,Pets,1.0,5912.0,1.0,26.0,choice,2.0,1,2,2
+w3ef8767,Pets,1.0,2932.0,1.0,13.0,choice,2.0,2,2,2
+wb050285,Pets,1.0,1925.0,1.0,27.0,choice,2.0,0,2,2
+w2c5d7eb,Pets,1.0,783.0,1.0,6.0,choice,2.0,2,2,2
+w567d945,Pets,1.0,771.0,1.0,9.0,choice,2.0,2,2,2
+wbf71104,Pets,1.0,4073.0,1.0,18.0,choice,2.0,2,0,2
+wdcba2fa,Pets,0.0,567.0,0.0,26.0,choice,2.0,2,1,2
+w06dc745,Pets,1.0,1680.0,1.0,6.0,choice,2.0,3,1,2
+wd3b5cb5,Pets,1.0,1168.0,1.0,9.0,choice,2.0,2,2,2
+wea422b2,Pets,1.0,1956.0,1.0,17.0,choice,2.0,1,2,2
+w8b71afe,Pets,1.0,2375.0,1.0,12.0,choice,2.0,2,0,2
+wea26d76,Pets,1.0,1680.0,1.0,28.0,choice,2.0,2,2,2
+w28e335e,Pets,1.0,998.0,1.0,29.0,choice,2.0,2,2,2
+w8d04c13,Pets,1.0,1567.0,1.0,10.0,choice,2.0,2,2,2
+w882868f,Pets,1.0,205.0,1.0,20.0,choice,2.0,2,2,2
+w973e0a4,Pets,1.0,362.0,1.0,25.0,choice,2.0,2,2,2
+w38281a7,Pets,1.0,738.0,1.0,28.0,choice,2.0,2,2,2
+w15afaeb,Pets,1.0,1003.0,1.0,27.0,choice,2.0,3,1,2
+we820c40,Pets,1.0,490.0,1.0,26.0,choice,2.0,2,2,2
+wd1f6033,Pets,1.0,723.0,1.0,21.0,choice,2.0,2,2,2
+wa9588e1,Pets,1.0,2019.0,1.0,23.0,choice,2.0,2,1,2
+w417dedd,Pets,1.0,2547.0,1.0,1.0,choice,2.0,2,1,2
+waf5ed76,Pets,1.0,449.0,1.0,30.0,choice,2.0,2,2,2
+wb83a52c,Pets,1.0,1149.0,1.0,11.0,choice,2.0,2,1,2
+wf9d56e4,Pets,1.0,280.0,1.0,8.0,choice,2.0,2,2,2
+w00c391f,Pets,1.0,1141.0,1.0,19.0,choice,2.0,2,1,2
+wae73c1f,Pets,1.0,5762.0,1.0,22.0,choice,2.0,2,2,2
+wbdee46f,Pets,1.0,319.0,1.0,9.0,choice,2.0,2,2,2
+wd1558cc,Pets,1.0,3801.0,1.0,15.0,choice,2.0,2,1,2
+w0cf8802,Pets,0.0,1386.0,0.0,27.0,choice,2.0,2,0,2
+w31b7dbe,Pets,1.0,1243.0,1.0,14.0,choice,2.0,2,2,2
+w1efb25c,Pets,1.0,735.0,1.0,28.0,choice,2.0,2,2,2
+w017e3cd,Pets,1.0,4678.0,1.0,19.0,choice,2.0,2,0,2
+w865d6ad,Pets,1.0,160.0,1.0,15.0,choice,2.0,2,2,2
+w4810e3e,Pets,1.0,6457.0,1.0,10.0,choice,2.0,2,2,2
+w161eef2,Pets,1.0,900.0,1.0,30.0,choice,2.0,2,-1,2
+wd9e76e4,Pets,0.0,2934.0,0.0,17.0,choice,2.0,3,2,2
+w6355333,Pets,1.0,1955.0,1.0,19.0,choice,2.0,2,2,2
+wa620fe2,Pets,1.0,839.0,1.0,12.0,choice,2.0,2,2,2
+w812d061,Pets,1.0,667.0,1.0,17.0,choice,2.0,3,-1,2
+wf9347d8,Pets,1.0,744.0,1.0,27.0,choice,2.0,2,0,2
+w5624f17,Pets,1.0,2730.0,1.0,24.0,choice,2.0,2,2,2
+wad2e584,Pets,0.0,593.0,0.0,20.0,choice,2.0,5,0,2
+wf2e46b5,Pets,1.0,378.0,1.0,1.0,choice,2.0,2,0,2
+wbff56f6,Pets,1.0,523.0,1.0,24.0,choice,2.0,2,2,2
+w3067c35,Pets,1.0,1080.0,1.0,14.0,choice,2.0,0,0,2
+wc136bb6,Pets,1.0,2875.0,1.0,4.0,choice,2.0,2,2,2
+wa24f9fe,Pets,1.0,4623.0,1.0,5.0,choice,2.0,2,2,2
+w51d8142,Pets,1.0,842.0,1.0,11.0,choice,2.0,3,1,2
+wf7e1cf2,Pets,1.0,570.0,1.0,23.0,choice,2.0,2,1,2
+w915dec2,Pets,1.0,58.0,1.0,9.0,choice,2.0,4,2,2
+w4e312fd,Pets,1.0,1512.0,1.0,21.0,choice,2.0,3,2,2
+w0c6daff,Pets,1.0,2057.0,1.0,26.0,choice,2.0,2,2,2
+w472a3b0,Pets,1.0,1659.0,1.0,26.0,choice,2.0,2,2,2
+w7b672a4,Pets,1.0,4153.0,1.0,20.0,choice,2.0,2,0,2
+wa06df17,Pets,1.0,2853.0,1.0,22.0,choice,2.0,2,1,2
+w0e327f3,Pets,1.0,2496.0,1.0,29.0,choice,2.0,4,2,2
+w1afb6bd,Pets,1.0,72.0,1.0,21.0,choice,2.0,2,2,2
+w08dda5e,Pets,1.0,473.0,1.0,23.0,choice,2.0,3,2,2
+w49dc7cd,Pets,1.0,1590.0,1.0,8.0,choice,2.0,2,2,2
+w7574933,Pets,1.0,389.0,1.0,25.0,choice,2.0,2,2,2
+w2e9806f,Berries,0.0,7270.0,0.0,15.0,choice,2.0,2,0,2
+wf57281a,Berries,0.0,7033.0,0.0,17.0,choice,2.0,2,0,2
+wc861d09,Berries,1.0,3034.0,1.0,5.0,choice,2.0,1,1,2
+w3ef8767,Berries,0.0,4466.0,0.0,15.0,choice,2.0,1,0,2
+wb050285,Berries,1.0,4204.0,1.0,15.0,choice,2.0,1,1,2
+w2c5d7eb,Berries,1.0,279.0,1.0,21.0,choice,2.0,2,2,2
+w567d945,Berries,0.0,5392.0,0.0,12.0,choice,2.0,2,0,2
+wbf71104,Berries,0.0,973.0,0.0,4.0,choice,2.0,2,2,2
+wdcba2fa,Berries,0.0,858.0,0.0,22.0,choice,2.0,1,0,2
+w06dc745,Berries,1.0,644.0,1.0,30.0,choice,2.0,2,1,2
+wd3b5cb5,Berries,1.0,1080.0,1.0,22.0,choice,2.0,1,2,2
+wea422b2,Berries,1.0,407.0,1.0,26.0,choice,2.0,0,1,2
+w8b71afe,Berries,1.0,3052.0,1.0,14.0,choice,2.0,2,2,2
+wea26d76,Berries,1.0,4205.0,1.0,25.0,choice,2.0,2,2,2
+w28e335e,Berries,1.0,602.0,1.0,4.0,choice,2.0,2,1,2
+w8d04c13,Berries,1.0,446.0,1.0,24.0,choice,2.0,2,1,2
+w882868f,Berries,1.0,774.0,1.0,29.0,choice,2.0,2,2,2
+w973e0a4,Berries,1.0,2504.0,1.0,3.0,choice,2.0,2,0,2
+w38281a7,Berries,1.0,374.0,1.0,8.0,choice,2.0,2,2,2
+w15afaeb,Berries,1.0,3959.0,1.0,21.0,choice,2.0,2,0,2
+we820c40,Berries,1.0,954.0,1.0,23.0,choice,2.0,2,1,2
+wd1f6033,Berries,1.0,1908.0,1.0,2.0,choice,2.0,2,2,2
+wa9588e1,Berries,1.0,546.0,1.0,21.0,choice,2.0,2,1,2
+w417dedd,Berries,1.0,1741.0,1.0,6.0,choice,2.0,2,1,2
+waf5ed76,Berries,1.0,517.0,1.0,27.0,choice,2.0,1,0,2
+wb83a52c,Berries,1.0,638.0,1.0,28.0,choice,2.0,2,2,2
+wf9d56e4,Berries,1.0,252.0,1.0,28.0,choice,2.0,2,2,2
+w00c391f,Berries,0.0,1265.0,0.0,14.0,choice,2.0,1,0,2
+wae73c1f,Berries,1.0,2768.0,1.0,27.0,choice,2.0,2,2,2
+wbdee46f,Berries,1.0,1967.0,1.0,23.0,choice,2.0,2,2,2
+wd1558cc,Berries,1.0,342.0,1.0,30.0,choice,2.0,2,0,2
+w0cf8802,Berries,0.0,1923.0,0.0,28.0,choice,2.0,2,0,2
+w31b7dbe,Berries,1.0,1510.0,1.0,23.0,choice,2.0,2,1,2
+w1efb25c,Berries,1.0,1543.0,1.0,17.0,choice,2.0,2,2,2
+w017e3cd,Berries,1.0,663.0,1.0,24.0,choice,2.0,2,2,2
+w865d6ad,Berries,1.0,3928.0,1.0,25.0,choice,2.0,2,0,2
+w4810e3e,Berries,1.0,6588.0,1.0,2.0,choice,2.0,2,0,2
+w161eef2,Berries,1.0,676.0,1.0,18.0,choice,2.0,2,1,2
+wd9e76e4,Berries,1.0,934.0,1.0,20.0,choice,2.0,1,0,2
+w6355333,Berries,1.0,2147.0,1.0,18.0,choice,2.0,2,2,2
+wa620fe2,Berries,1.0,962.0,1.0,9.0,choice,2.0,2,2,2
+w812d061,Berries,0.0,320.0,0.0,24.0,choice,2.0,1,2,2
+wf9347d8,Berries,1.0,1311.0,1.0,30.0,choice,2.0,2,2,2
+w5624f17,Berries,1.0,1007.0,1.0,22.0,choice,2.0,2,2,2
+wad2e584,Berries,1.0,220.0,1.0,22.0,choice,2.0,0,-1,2
+wf2e46b5,Berries,1.0,1040.0,1.0,5.0,choice,2.0,2,2,2
+wbff56f6,Berries,1.0,2552.0,1.0,28.0,choice,2.0,2,2,2
+w3067c35,Berries,1.0,2288.0,1.0,11.0,choice,2.0,0,1,2
+wc136bb6,Berries,1.0,789.0,1.0,20.0,choice,2.0,2,2,2
+wa24f9fe,Berries,1.0,387.0,1.0,13.0,choice,2.0,1,2,2
+w51d8142,Berries,1.0,782.0,1.0,22.0,choice,2.0,2,1,2
+wf7e1cf2,Berries,1.0,690.0,1.0,19.0,choice,2.0,2,1,2
+w915dec2,Berries,0.0,2127.0,0.0,30.0,choice,2.0,1,-1,2
+w4e312fd,Berries,0.0,2147.0,0.0,18.0,choice,2.0,2,0,2
+w0c6daff,Berries,1.0,581.0,1.0,30.0,choice,2.0,1,2,2
+w472a3b0,Berries,1.0,754.0,1.0,4.0,choice,2.0,2,1,2
+w7b672a4,Berries,1.0,2469.0,1.0,30.0,choice,2.0,0,1,2
+wa06df17,Berries,0.0,1422.0,0.0,13.0,choice,2.0,2,0,2
+w0e327f3,Berries,1.0,4251.0,1.0,20.0,choice,2.0,3,2,2
+w1afb6bd,Berries,1.0,654.0,1.0,26.0,choice,2.0,2,1,2
+w08dda5e,Berries,1.0,1826.0,1.0,2.0,choice,2.0,2,2,2
+w49dc7cd,Berries,1.0,3319.0,1.0,4.0,choice,2.0,2,0,2
+w7574933,Berries,1.0,286.0,1.0,4.0,choice,2.0,2,2,2
+w2e9806f,Fruit,1.0,761.0,1.0,16.0,choice,3.0,3,1,1
+wf57281a,Fruit,1.0,750.0,1.0,9.0,choice,3.0,3,0,1
+wc861d09,Fruit,1.0,4424.0,1.0,28.0,choice,3.0,4,2,1
+w3ef8767,Fruit,0.0,4302.0,0.0,19.0,choice,3.0,2,-1,1
+wb050285,Fruit,1.0,1391.0,1.0,19.0,choice,3.0,2,1,1
+w2c5d7eb,Fruit,1.0,875.0,1.0,28.0,choice,3.0,3,1,1
+w567d945,Fruit,0.0,5497.0,0.0,16.0,choice,3.0,2,-1,1
+wbf71104,Fruit,0.0,1078.0,0.0,19.0,choice,3.0,3,1,1
+wdcba2fa,Fruit,0.0,187.0,0.0,3.0,choice,3.0,3,0,1
+w06dc745,Fruit,1.0,1333.0,1.0,9.0,choice,3.0,3,2,1
+wd3b5cb5,Fruit,1.0,550.0,1.0,6.0,choice,3.0,3,1,1
+wea422b2,Fruit,1.0,299.0,1.0,11.0,choice,3.0,1,1,1
+w8b71afe,Fruit,1.0,687.0,1.0,9.0,choice,3.0,3,2,1
+wea26d76,Fruit,1.0,5492.0,1.0,8.0,choice,3.0,3,2,1
+w28e335e,Fruit,1.0,4491.0,1.0,26.0,choice,3.0,3,1,1
+w8d04c13,Fruit,1.0,2174.0,1.0,4.0,choice,3.0,3,1,1
+w882868f,Fruit,1.0,548.0,1.0,30.0,choice,3.0,3,1,1
+w973e0a4,Fruit,1.0,2808.0,1.0,1.0,choice,3.0,2,-1,1
+w38281a7,Fruit,1.0,1273.0,1.0,26.0,choice,3.0,3,1,1
+w15afaeb,Fruit,1.0,2971.0,1.0,12.0,choice,3.0,3,0,1
+we820c40,Fruit,1.0,795.0,1.0,24.0,choice,3.0,3,1,1
+wd1f6033,Fruit,0.0,2796.0,0.0,18.0,choice,3.0,1,1,1
+wa9588e1,Fruit,1.0,1113.0,1.0,30.0,choice,3.0,3,1,1
+w417dedd,Fruit,1.0,91.0,1.0,24.0,choice,3.0,4,1,1
+waf5ed76,Fruit,1.0,4289.0,1.0,19.0,choice,3.0,3,-1,1
+wb83a52c,Fruit,1.0,1689.0,1.0,17.0,choice,3.0,3,2,1
+wf9d56e4,Fruit,1.0,1025.0,1.0,17.0,choice,3.0,3,2,1
+w00c391f,Fruit,0.0,539.0,0.0,21.0,choice,3.0,2,0,1
+wae73c1f,Fruit,1.0,2078.0,1.0,2.0,choice,3.0,2,1,1
+wbdee46f,Fruit,1.0,772.0,1.0,7.0,choice,3.0,3,2,1
+wd1558cc,Fruit,1.0,476.0,1.0,17.0,choice,3.0,0,0,1
+w0cf8802,Fruit,1.0,1135.0,1.0,19.0,choice,3.0,3,0,1
+w31b7dbe,Fruit,1.0,2173.0,1.0,13.0,choice,3.0,2,1,1
+w1efb25c,Fruit,1.0,1307.0,1.0,6.0,choice,3.0,3,2,1
+w017e3cd,Fruit,1.0,1186.0,1.0,23.0,choice,3.0,5,1,1
+w865d6ad,Fruit,1.0,479.0,1.0,13.0,choice,3.0,3,-1,1
+w4810e3e,Fruit,1.0,3159.0,1.0,12.0,choice,3.0,2,0,1
+w161eef2,Fruit,1.0,386.0,1.0,28.0,choice,3.0,3,1,1
+wd9e76e4,Fruit,1.0,1668.0,1.0,12.0,choice,3.0,4,0,1
+w6355333,Fruit,1.0,3369.0,1.0,21.0,choice,3.0,3,3,1
+wa620fe2,Fruit,1.0,3641.0,1.0,23.0,choice,3.0,4,1,1
+w812d061,Fruit,,,0.0,1.0,choice,3.0,3,2,1
+wf9347d8,Fruit,1.0,3506.0,1.0,16.0,choice,3.0,3,1,1
+w5624f17,Fruit,1.0,2446.0,1.0,23.0,choice,3.0,3,1,1
+wad2e584,Fruit,0.0,724.0,0.0,12.0,choice,3.0,3,-2,1
+wf2e46b5,Fruit,1.0,389.0,1.0,13.0,choice,3.0,3,2,1
+wbff56f6,Fruit,1.0,1395.0,1.0,4.0,choice,3.0,3,2,1
+w3067c35,Fruit,1.0,779.0,1.0,25.0,choice,3.0,2,1,1
+wc136bb6,Fruit,1.0,5088.0,1.0,3.0,choice,3.0,4,1,1
+wa24f9fe,Fruit,1.0,222.0,1.0,15.0,choice,3.0,4,2,1
+w51d8142,Fruit,0.0,2713.0,0.0,18.0,choice,3.0,3,1,1
+wf7e1cf2,Fruit,1.0,5.0,1.0,17.0,choice,3.0,3,1,1
+w915dec2,Fruit,1.0,958.0,1.0,11.0,choice,3.0,3,-1,1
+w4e312fd,Fruit,0.0,1346.0,0.0,13.0,choice,3.0,3,0,1
+w0c6daff,Fruit,1.0,125.0,1.0,27.0,choice,3.0,4,2,1
+w472a3b0,Fruit,1.0,2146.0,1.0,3.0,choice,3.0,3,0,1
+w7b672a4,Fruit,1.0,3547.0,1.0,14.0,choice,3.0,0,1,1
+wa06df17,Fruit,1.0,3026.0,1.0,16.0,choice,3.0,2,0,1
+w0e327f3,Fruit,,,0.0,25.0,choice,3.0,3,2,1
+w1afb6bd,Fruit,1.0,426.0,1.0,18.0,choice,3.0,3,1,1
+w08dda5e,Fruit,1.0,295.0,1.0,22.0,choice,3.0,3,3,1
+w49dc7cd,Fruit,1.0,1796.0,1.0,30.0,choice,3.0,3,0,1
+w7574933,Fruit,1.0,2808.0,1.0,28.0,choice,3.0,3,1,1
+w2e9806f,Dessert,1.0,3710.0,1.0,17.0,choice,1.0,0,0,1
+wf57281a,Dessert,1.0,267.0,1.0,19.0,choice,1.0,1,1,1
+wc861d09,Dessert,1.0,6602.0,1.0,21.0,choice,1.0,0,1,1
+w3ef8767,Dessert,1.0,1309.0,1.0,23.0,choice,1.0,1,0,1
+wb050285,Dessert,1.0,1741.0,1.0,7.0,choice,1.0,0,0,1
+w2c5d7eb,Dessert,1.0,953.0,1.0,12.0,choice,1.0,1,1,1
+w567d945,Dessert,1.0,2890.0,1.0,28.0,choice,1.0,1,0,1
+wbf71104,Dessert,1.0,600.0,1.0,15.0,choice,1.0,1,0,1
+wdcba2fa,Dessert,0.0,321.0,0.0,9.0,choice,1.0,1,0,1
+w06dc745,Dessert,1.0,1167.0,1.0,27.0,choice,1.0,1,0,1
+wd3b5cb5,Dessert,0.0,4696.0,0.0,17.0,choice,1.0,0,1,1
+wea422b2,Dessert,1.0,3929.0,1.0,29.0,choice,1.0,0,1,1
+w8b71afe,Dessert,0.0,3073.0,0.0,17.0,choice,1.0,1,1,1
+wea26d76,Dessert,1.0,2484.0,1.0,22.0,choice,1.0,1,1,1
+w28e335e,Dessert,1.0,1984.0,1.0,5.0,choice,1.0,1,1,1
+w8d04c13,Dessert,1.0,643.0,1.0,11.0,choice,1.0,1,1,1
+w882868f,Dessert,1.0,3066.0,1.0,5.0,choice,1.0,0,0,1
+w973e0a4,Dessert,1.0,1285.0,1.0,22.0,choice,1.0,1,1,1
+w38281a7,Dessert,1.0,2290.0,1.0,27.0,choice,1.0,1,1,1
+w15afaeb,Dessert,1.0,1237.0,1.0,5.0,choice,1.0,2,0,1
+we820c40,Dessert,0.0,5389.0,0.0,18.0,choice,1.0,1,0,1
+wd1f6033,Dessert,0.0,2879.0,0.0,6.0,choice,1.0,0,1,1
+wa9588e1,Dessert,1.0,424.0,1.0,4.0,choice,1.0,4,0,1
+w417dedd,Dessert,1.0,2478.0,1.0,28.0,choice,1.0,2,0,1
+waf5ed76,Dessert,1.0,352.0,1.0,16.0,choice,1.0,1,0,1
+wb83a52c,Dessert,1.0,748.0,1.0,27.0,choice,1.0,1,0,1
+wf9d56e4,Dessert,,,0.0,2.0,choice,1.0,1,1,1
+w00c391f,Dessert,0.0,722.0,0.0,23.0,choice,1.0,1,0,1
+wae73c1f,Dessert,1.0,6681.0,1.0,13.0,choice,1.0,2,1,1
+wbdee46f,Dessert,1.0,2001.0,1.0,27.0,choice,1.0,3,0,1
+wd1558cc,Dessert,1.0,375.0,1.0,9.0,choice,1.0,1,0,1
+w0cf8802,Dessert,1.0,952.0,1.0,29.0,choice,1.0,1,0,1
+w31b7dbe,Dessert,1.0,5713.0,1.0,12.0,choice,1.0,1,0,1
+w1efb25c,Dessert,1.0,387.0,1.0,22.0,choice,1.0,4,1,1
+w017e3cd,Dessert,1.0,1744.0,1.0,6.0,choice,1.0,1,0,1
+w865d6ad,Dessert,1.0,749.0,1.0,22.0,choice,1.0,1,1,1
+w4810e3e,Dessert,1.0,2362.0,1.0,13.0,choice,1.0,1,1,1
+w161eef2,Dessert,1.0,2029.0,1.0,5.0,choice,1.0,1,0,1
+wd9e76e4,Dessert,1.0,1167.0,1.0,13.0,choice,1.0,2,1,1
+w6355333,Dessert,1.0,5885.0,1.0,5.0,choice,1.0,1,0,1
+wa620fe2,Dessert,1.0,979.0,1.0,11.0,choice,1.0,1,1,1
+w812d061,Dessert,1.0,72.0,1.0,11.0,choice,1.0,2,0,1
+wf9347d8,Dessert,1.0,4411.0,1.0,1.0,choice,1.0,1,1,1
+w5624f17,Dessert,1.0,252.0,1.0,12.0,choice,1.0,1,0,1
+wad2e584,Dessert,0.0,829.0,0.0,15.0,choice,1.0,0,0,1
+wf2e46b5,Dessert,1.0,952.0,1.0,4.0,choice,1.0,1,1,1
+wbff56f6,Dessert,0.0,4419.0,0.0,23.0,choice,1.0,0,0,1
+w3067c35,Dessert,1.0,2300.0,1.0,3.0,choice,1.0,1,0,1
+wc136bb6,Dessert,1.0,3807.0,1.0,5.0,choice,1.0,1,1,1
+wa24f9fe,Dessert,1.0,6025.0,1.0,1.0,choice,1.0,1,0,1
+w51d8142,Dessert,1.0,930.0,1.0,10.0,choice,1.0,2,0,1
+wf7e1cf2,Dessert,1.0,1255.0,1.0,12.0,choice,1.0,1,0,1
+w915dec2,Dessert,0.0,3500.0,0.0,13.0,choice,1.0,1,0,1
+w4e312fd,Dessert,0.0,622.0,0.0,9.0,choice,1.0,1,0,1
+w0c6daff,Dessert,1.0,3749.0,1.0,11.0,choice,1.0,1,0,1
+w472a3b0,Dessert,1.0,682.0,1.0,2.0,choice,1.0,1,0,1
+w7b672a4,Dessert,1.0,2361.0,1.0,3.0,choice,1.0,0,0,1
+wa06df17,Dessert,1.0,1361.0,1.0,2.0,choice,1.0,1,0,1
+w0e327f3,Dessert,1.0,4144.0,1.0,6.0,choice,1.0,3,1,1
+w1afb6bd,Dessert,0.0,5937.0,0.0,2.0,choice,1.0,0,1,1
+w08dda5e,Dessert,1.0,798.0,1.0,7.0,choice,1.0,0,1,1
+w49dc7cd,Dessert,1.0,3888.0,1.0,2.0,choice,1.0,1,0,1
+w7574933,Dessert,1.0,987.0,1.0,2.0,choice,1.0,1,1,1
+w2e9806f,Grass,0.0,5221.0,1.0,18.0,choice,3.0,3,1,-1
+wf57281a,Grass,0.0,3610.0,1.0,1.0,choice,3.0,2,-1,-1
+wc861d09,Grass,,,0.0,24.0,choice,3.0,1,2,-1
+w3ef8767,Grass,0.0,653.0,1.0,11.0,choice,3.0,3,0,-1
+wb050285,Grass,0.0,2097.0,1.0,17.0,choice,3.0,1,2,-1
+w2c5d7eb,Grass,1.0,5943.0,0.0,2.0,choice,3.0,4,0,-1
+w567d945,Grass,0.0,4649.0,1.0,7.0,choice,3.0,1,0,-1
+wbf71104,Grass,1.0,745.0,0.0,5.0,choice,3.0,1,0,-1
+wdcba2fa,Grass,0.0,411.0,1.0,24.0,choice,3.0,0,0,-1
+w06dc745,Grass,0.0,947.0,1.0,23.0,choice,3.0,0,-1,-1
+wd3b5cb5,Grass,1.0,4409.0,0.0,29.0,choice,3.0,3,1,-1
+wea422b2,Grass,,,0.0,15.0,choice,3.0,0,1,-1
+w8b71afe,Grass,1.0,1559.0,0.0,29.0,choice,3.0,3,1,-1
+wea26d76,Grass,0.0,5965.0,1.0,5.0,choice,3.0,1,1,-1
+w28e335e,Grass,0.0,3418.0,1.0,15.0,choice,3.0,1,-1,-1
+w8d04c13,Grass,1.0,244.0,0.0,27.0,choice,3.0,3,1,-1
+w882868f,Grass,1.0,5096.0,0.0,10.0,choice,3.0,3,1,-1
+w973e0a4,Grass,0.0,1508.0,1.0,19.0,choice,3.0,1,1,-1
+w38281a7,Grass,1.0,6691.0,0.0,1.0,choice,3.0,2,0,-1
+w15afaeb,Grass,0.0,5722.0,1.0,10.0,choice,3.0,5,0,-1
+we820c40,Grass,0.0,5696.0,1.0,21.0,choice,3.0,0,0,-1
+wd1f6033,Grass,1.0,3769.0,0.0,4.0,choice,3.0,3,-1,-1
+wa9588e1,Grass,1.0,779.0,0.0,9.0,choice,3.0,1,-1,-1
+w417dedd,Grass,1.0,2556.0,0.0,10.0,choice,3.0,2,0,-1
+waf5ed76,Grass,0.0,2995.0,1.0,9.0,choice,3.0,3,1,-1
+wb83a52c,Grass,0.0,2788.0,1.0,7.0,choice,3.0,3,0,-1
+wf9d56e4,Grass,0.0,569.0,1.0,13.0,choice,3.0,5,-2,-1
+w00c391f,Grass,1.0,1461.0,0.0,25.0,choice,3.0,0,0,-1
+wae73c1f,Grass,0.0,2512.0,1.0,11.0,choice,3.0,1,0,-1
+wbdee46f,Grass,,,0.0,22.0,choice,3.0,1,1,-1
+wd1558cc,Grass,0.0,5841.0,1.0,11.0,choice,3.0,2,0,-1
+w0cf8802,Grass,0.0,533.0,1.0,18.0,choice,3.0,2,2,-1
+w31b7dbe,Grass,0.0,5882.0,1.0,2.0,choice,3.0,2,1,-1
+w1efb25c,Grass,0.0,4165.0,1.0,4.0,choice,3.0,2,-1,-1
+w017e3cd,Grass,0.0,5095.0,1.0,22.0,choice,3.0,2,2,-1
+w865d6ad,Grass,0.0,732.0,1.0,26.0,choice,3.0,1,0,-1
+w4810e3e,Grass,0.0,3943.0,1.0,29.0,choice,3.0,4,1,-1
+w161eef2,Grass,1.0,2554.0,0.0,6.0,choice,3.0,1,0,-1
+wd9e76e4,Grass,0.0,2708.0,1.0,24.0,choice,3.0,3,1,-1
+w6355333,Grass,0.0,4894.0,1.0,27.0,choice,3.0,1,-1,-1
+wa620fe2,Grass,1.0,6756.0,0.0,29.0,choice,3.0,5,0,-1
+w812d061,Grass,1.0,2371.0,0.0,29.0,choice,3.0,4,0,-1
+wf9347d8,Grass,1.0,2396.0,0.0,29.0,choice,3.0,1,0,-1
+w5624f17,Grass,1.0,4545.0,0.0,4.0,choice,3.0,3,1,-1
+wad2e584,Grass,1.0,322.0,0.0,29.0,choice,3.0,2,1,-1
+wf2e46b5,Grass,0.0,1608.0,1.0,16.0,choice,3.0,0,1,-1
+wbff56f6,Grass,0.0,5476.0,1.0,22.0,choice,3.0,3,1,-1
+w3067c35,Grass,1.0,5192.0,0.0,24.0,choice,3.0,1,1,-1
+wc136bb6,Grass,1.0,4647.0,0.0,12.0,choice,3.0,2,0,-1
+wa24f9fe,Grass,1.0,3574.0,0.0,9.0,choice,3.0,1,1,-1
+w51d8142,Grass,0.0,3072.0,1.0,26.0,choice,3.0,3,1,-1
+wf7e1cf2,Grass,1.0,2325.0,0.0,28.0,choice,3.0,3,0,-1
+w915dec2,Grass,1.0,2213.0,0.0,20.0,choice,3.0,2,1,-1
+w4e312fd,Grass,0.0,2382.0,1.0,1.0,choice,3.0,3,1,-1
+w0c6daff,Grass,0.0,4004.0,1.0,9.0,choice,3.0,3,1,-1
+w472a3b0,Grass,0.0,2846.0,1.0,21.0,choice,3.0,1,-2,-1
+w7b672a4,Grass,1.0,3748.0,0.0,6.0,choice,3.0,0,2,-1
+wa06df17,Grass,1.0,2728.0,0.0,4.0,choice,3.0,3,0,-1
+w0e327f3,Grass,0.0,3490.0,1.0,23.0,choice,3.0,3,-1,-1
+w1afb6bd,Grass,1.0,812.0,0.0,13.0,choice,3.0,3,2,-1
+w08dda5e,Grass,1.0,3255.0,0.0,9.0,choice,3.0,3,-1,-1
+w49dc7cd,Grass,1.0,2052.0,0.0,14.0,choice,3.0,2,0,-1
+w7574933,Grass,0.0,5967.0,1.0,19.0,choice,3.0,3,0,-1
+w2e9806f,Water,1.0,2238.0,0.0,19.0,choice,3.0,3,0,-3
+wf57281a,Water,1.0,1121.0,0.0,16.0,choice,3.0,2,0,-3
+wc861d09,Water,1.0,4374.0,0.0,15.0,choice,3.0,3,0,-3
+w3ef8767,Water,0.0,3827.0,1.0,24.0,choice,3.0,2,0,-3
+wb050285,Water,0.0,4090.0,1.0,2.0,choice,3.0,2,-2,-3
+w2c5d7eb,Water,0.0,2978.0,1.0,22.0,choice,3.0,3,-2,-3
+w567d945,Water,0.0,2399.0,1.0,21.0,choice,3.0,3,0,-3
+wbf71104,Water,1.0,1975.0,0.0,21.0,choice,3.0,2,-1,-3
+wdcba2fa,Water,1.0,1175.0,0.0,8.0,choice,3.0,3,-1,-3
+w06dc745,Water,1.0,2130.0,0.0,18.0,choice,3.0,2,1,-3
+wd3b5cb5,Water,0.0,3316.0,1.0,1.0,choice,3.0,4,0,-3
+wea422b2,Water,1.0,4095.0,0.0,21.0,choice,3.0,1,-1,-3
+w8b71afe,Water,1.0,4390.0,0.0,26.0,choice,3.0,3,0,-3
+wea26d76,Water,0.0,6672.0,1.0,1.0,choice,3.0,3,-3,-3
+w28e335e,Water,0.0,685.0,1.0,11.0,choice,3.0,1,-2,-3
+w8d04c13,Water,0.0,1383.0,1.0,21.0,choice,3.0,2,-2,-3
+w882868f,Water,0.0,88.0,1.0,14.0,choice,3.0,3,-3,-3
+w973e0a4,Water,0.0,834.0,1.0,29.0,choice,3.0,3,-1,-3
+w38281a7,Water,0.0,2069.0,1.0,12.0,choice,3.0,2,-2,-3
+w15afaeb,Water,0.0,3692.0,1.0,13.0,choice,3.0,3,-1,-3
+we820c40,Water,0.0,866.0,1.0,7.0,choice,3.0,3,-1,-3
+wd1f6033,Water,0.0,325.0,1.0,28.0,choice,3.0,1,-3,-3
+wa9588e1,Water,1.0,488.0,0.0,19.0,choice,3.0,2,-1,-3
+w417dedd,Water,0.0,725.0,1.0,12.0,choice,3.0,3,-1,-3
+waf5ed76,Water,0.0,618.0,1.0,5.0,choice,3.0,3,-3,-3
+wb83a52c,Water,0.0,2275.0,1.0,29.0,choice,3.0,3,0,-3
+wf9d56e4,Water,0.0,3125.0,1.0,12.0,choice,3.0,3,-2,-3
+w00c391f,Water,0.0,492.0,1.0,5.0,choice,3.0,3,0,-3
+wae73c1f,Water,1.0,2945.0,0.0,21.0,choice,3.0,2,1,-3
+wbdee46f,Water,0.0,3496.0,1.0,11.0,choice,3.0,3,-1,-3
+wd1558cc,Water,1.0,2367.0,0.0,10.0,choice,3.0,3,1,-3
+w0cf8802,Water,0.0,3030.0,1.0,7.0,choice,3.0,3,0,-3
+w31b7dbe,Water,0.0,4585.0,1.0,7.0,choice,3.0,3,-1,-3
+w1efb25c,Water,1.0,5871.0,0.0,2.0,choice,3.0,3,-2,-3
+w017e3cd,Water,0.0,4002.0,1.0,21.0,choice,3.0,3,0,-3
+w865d6ad,Water,0.0,793.0,1.0,2.0,choice,3.0,0,-1,-3
+w4810e3e,Water,,,0.0,4.0,choice,3.0,3,3,-3
+w161eef2,Water,0.0,1567.0,1.0,25.0,choice,3.0,2,0,-3
+wd9e76e4,Water,1.0,2051.0,0.0,21.0,choice,3.0,4,1,-3
+w6355333,Water,0.0,543.0,1.0,17.0,choice,3.0,3,-2,-3
+wa620fe2,Water,0.0,2693.0,1.0,6.0,choice,3.0,2,-2,-3
+w812d061,Water,1.0,335.0,0.0,26.0,choice,3.0,6,-1,-3
+wf9347d8,Water,1.0,3155.0,0.0,22.0,choice,3.0,2,1,-3
+w5624f17,Water,0.0,3779.0,1.0,17.0,choice,3.0,3,2,-3
+wad2e584,Water,1.0,1233.0,0.0,27.0,choice,3.0,2,1,-3
+wf2e46b5,Water,0.0,703.0,1.0,3.0,choice,3.0,2,1,-3
+wbff56f6,Water,0.0,1266.0,1.0,25.0,choice,3.0,3,-2,-3
+w3067c35,Water,1.0,803.0,0.0,29.0,choice,3.0,2,0,-3
+wc136bb6,Water,0.0,7279.0,1.0,11.0,choice,3.0,3,-2,-3
+wa24f9fe,Water,0.0,6348.0,1.0,7.0,choice,3.0,3,-2,-3
+w51d8142,Water,0.0,1397.0,1.0,14.0,choice,3.0,3,-2,-3
+wf7e1cf2,Water,,,0.0,29.0,choice,3.0,1,0,-3
+w915dec2,Water,1.0,3865.0,0.0,6.0,choice,3.0,3,0,-3
+w4e312fd,Water,0.0,507.0,1.0,3.0,choice,3.0,2,-2,-3
+w0c6daff,Water,0.0,1195.0,1.0,13.0,choice,3.0,3,-1,-3
+w472a3b0,Water,0.0,495.0,1.0,22.0,choice,3.0,3,-2,-3
+w7b672a4,Water,0.0,1370.0,1.0,16.0,choice,3.0,0,-2,-3
+wa06df17,Water,0.0,1283.0,1.0,28.0,choice,3.0,3,0,-3
+w0e327f3,Water,,,0.0,10.0,choice,3.0,1,-3,-3
+w1afb6bd,Water,0.0,58.0,1.0,7.0,choice,3.0,3,-3,-3
+w08dda5e,Water,1.0,2133.0,0.0,16.0,choice,3.0,3,1,-3
+w49dc7cd,Water,1.0,2917.0,0.0,19.0,choice,3.0,3,1,-3
+w7574933,Water,0.0,3696.0,1.0,12.0,choice,3.0,2,-1,-3
+w2e9806f,Balls,1.0,1274.0,1.0,20.0,choice,3.0,3,0,1
+wf57281a,Balls,1.0,4481.0,1.0,20.0,choice,3.0,3,0,1
+wc861d09,Balls,1.0,4213.0,1.0,7.0,choice,3.0,3,3,1
+w3ef8767,Balls,1.0,1419.0,1.0,6.0,choice,3.0,4,3,1
+wb050285,Balls,1.0,1470.0,1.0,23.0,choice,3.0,3,-1,1
+w2c5d7eb,Balls,1.0,5377.0,1.0,7.0,choice,3.0,3,1,1
+w567d945,Balls,1.0,1575.0,1.0,25.0,choice,3.0,3,1,1
+wbf71104,Balls,1.0,2646.0,1.0,28.0,choice,3.0,3,1,1
+wdcba2fa,Balls,1.0,842.0,1.0,21.0,choice,3.0,3,0,1
+w06dc745,Balls,1.0,1005.0,1.0,26.0,choice,3.0,3,3,1
+wd3b5cb5,Balls,1.0,1752.0,1.0,4.0,choice,3.0,3,3,1
+wea422b2,Balls,1.0,6593.0,1.0,12.0,choice,3.0,1,1,1
+w8b71afe,Balls,1.0,681.0,1.0,22.0,choice,3.0,3,1,1
+wea26d76,Balls,1.0,3638.0,1.0,18.0,choice,3.0,4,1,1
+w28e335e,Balls,1.0,3075.0,1.0,19.0,choice,3.0,3,1,1
+w8d04c13,Balls,1.0,1492.0,1.0,2.0,choice,3.0,3,0,1
+w882868f,Balls,1.0,1632.0,1.0,21.0,choice,3.0,3,-2,1
+w973e0a4,Balls,1.0,2984.0,1.0,6.0,choice,3.0,2,1,1
+w38281a7,Balls,1.0,4278.0,1.0,17.0,choice,3.0,3,1,1
+w15afaeb,Balls,1.0,3467.0,1.0,25.0,choice,3.0,3,1,1
+we820c40,Balls,1.0,3379.0,1.0,15.0,choice,3.0,3,2,1
+wd1f6033,Balls,0.0,3558.0,0.0,16.0,choice,3.0,3,0,1
+wa9588e1,Balls,0.0,3803.0,0.0,3.0,choice,3.0,3,1,1
+w417dedd,Balls,1.0,815.0,1.0,23.0,choice,3.0,3,0,1
+waf5ed76,Balls,0.0,3146.0,0.0,14.0,choice,3.0,3,0,1
+wb83a52c,Balls,1.0,1840.0,1.0,13.0,choice,3.0,3,-1,1
+wf9d56e4,Balls,1.0,1623.0,1.0,4.0,choice,3.0,3,2,1
+w00c391f,Balls,1.0,1618.0,1.0,22.0,choice,3.0,4,2,1
+wae73c1f,Balls,1.0,2326.0,1.0,15.0,choice,3.0,3,-2,1
+wbdee46f,Balls,0.0,1218.0,0.0,2.0,choice,3.0,3,1,1
+wd1558cc,Balls,1.0,1211.0,1.0,2.0,choice,3.0,3,2,1
+w0cf8802,Balls,1.0,1124.0,1.0,14.0,choice,3.0,3,1,1
+w31b7dbe,Balls,0.0,1335.0,0.0,25.0,choice,3.0,3,0,1
+w1efb25c,Balls,1.0,4062.0,1.0,1.0,choice,3.0,3,-1,1
+w017e3cd,Balls,1.0,1267.0,1.0,30.0,choice,3.0,3,2,1
+w865d6ad,Balls,0.0,3134.0,0.0,18.0,choice,3.0,3,1,1
+w4810e3e,Balls,1.0,1897.0,1.0,11.0,choice,3.0,1,-1,1
+w161eef2,Balls,0.0,1672.0,0.0,11.0,choice,3.0,3,2,1
+wd9e76e4,Balls,1.0,618.0,1.0,9.0,choice,3.0,2,2,1
+w6355333,Balls,1.0,534.0,1.0,30.0,choice,3.0,3,1,1
+wa620fe2,Balls,1.0,1104.0,1.0,7.0,choice,3.0,2,1,1
+w812d061,Balls,0.0,1394.0,0.0,6.0,choice,3.0,0,-1,1
+wf9347d8,Balls,0.0,2857.0,0.0,2.0,choice,3.0,3,1,1
+w5624f17,Balls,1.0,2508.0,1.0,18.0,choice,3.0,3,3,1
+wad2e584,Balls,1.0,203.0,1.0,9.0,choice,3.0,0,1,1
+wf2e46b5,Balls,1.0,1151.0,1.0,11.0,choice,3.0,3,3,1
+wbff56f6,Balls,1.0,1771.0,1.0,13.0,choice,3.0,3,1,1
+w3067c35,Balls,1.0,951.0,1.0,6.0,choice,3.0,2,2,1
+wc136bb6,Balls,1.0,441.0,1.0,29.0,choice,3.0,2,-1,1
+wa24f9fe,Balls,1.0,1237.0,1.0,4.0,choice,3.0,3,1,1
+w51d8142,Balls,1.0,676.0,1.0,9.0,choice,3.0,3,-1,1
+wf7e1cf2,Balls,0.0,2228.0,0.0,8.0,choice,3.0,3,0,1
+w915dec2,Balls,1.0,99.0,1.0,26.0,choice,3.0,3,2,1
+w4e312fd,Balls,0.0,829.0,0.0,29.0,choice,3.0,3,-1,1
+w0c6daff,Balls,1.0,112.0,1.0,3.0,choice,3.0,3,1,1
+w472a3b0,Balls,0.0,471.0,0.0,28.0,choice,3.0,0,2,1
+w7b672a4,Balls,1.0,1273.0,1.0,17.0,choice,3.0,1,2,1
+wa06df17,Balls,0.0,560.0,0.0,26.0,choice,3.0,1,1,1
+w0e327f3,Balls,1.0,3429.0,1.0,27.0,choice,3.0,3,1,1
+w1afb6bd,Balls,1.0,2585.0,1.0,15.0,choice,3.0,3,1,1
+w08dda5e,Balls,1.0,3398.0,1.0,11.0,choice,3.0,3,2,1
+w49dc7cd,Balls,1.0,4098.0,1.0,1.0,choice,3.0,3,1,1
+w7574933,Balls,0.0,3996.0,0.0,9.0,choice,3.0,2,2,1
+w2e9806f,Beach,1.0,1087.0,0.0,21.0,choice,2.0,0,0,-2
+wf57281a,Beach,1.0,1188.0,0.0,29.0,choice,2.0,2,0,-2
+wc861d09,Beach,1.0,3304.0,0.0,18.0,choice,2.0,0,0,-2
+w3ef8767,Beach,1.0,1529.0,0.0,16.0,choice,2.0,2,0,-2
+wb050285,Beach,0.0,1064.0,1.0,18.0,choice,2.0,1,-1,-2
+w2c5d7eb,Beach,0.0,1984.0,1.0,14.0,choice,2.0,1,-2,-2
+w567d945,Beach,0.0,3917.0,1.0,23.0,choice,2.0,2,-1,-2
+wbf71104,Beach,0.0,2066.0,1.0,23.0,choice,2.0,1,-1,-2
+wdcba2fa,Beach,0.0,987.0,1.0,20.0,choice,2.0,1,0,-2
+w06dc745,Beach,1.0,1127.0,0.0,28.0,choice,2.0,2,1,-2
+wd3b5cb5,Beach,0.0,3241.0,1.0,13.0,choice,2.0,2,0,-2
+wea422b2,Beach,0.0,367.0,1.0,8.0,choice,2.0,1,-1,-2
+w8b71afe,Beach,0.0,1638.0,1.0,4.0,choice,2.0,2,0,-2
+wea26d76,Beach,0.0,3384.0,1.0,27.0,choice,2.0,3,-2,-2
+w28e335e,Beach,0.0,1803.0,1.0,21.0,choice,2.0,1,-1,-2
+w8d04c13,Beach,0.0,1527.0,1.0,16.0,choice,2.0,2,-2,-2
+w882868f,Beach,0.0,581.0,1.0,19.0,choice,2.0,2,-2,-2
+w973e0a4,Beach,0.0,2122.0,1.0,12.0,choice,2.0,0,0,-2
+w38281a7,Beach,0.0,1448.0,1.0,15.0,choice,2.0,2,-1,-2
+w15afaeb,Beach,0.0,3517.0,1.0,29.0,choice,2.0,2,-1,-2
+we820c40,Beach,0.0,397.0,1.0,10.0,choice,2.0,0,-1,-2
+wd1f6033,Beach,0.0,580.0,1.0,17.0,choice,2.0,1,-2,-2
+wa9588e1,Beach,0.0,376.0,1.0,22.0,choice,2.0,1,-1,-2
+w417dedd,Beach,0.0,1157.0,1.0,15.0,choice,2.0,2,0,-2
+waf5ed76,Beach,0.0,346.0,1.0,18.0,choice,2.0,2,-2,-2
+wb83a52c,Beach,1.0,1076.0,0.0,18.0,choice,2.0,1,0,-2
+wf9d56e4,Beach,0.0,257.0,1.0,16.0,choice,2.0,1,-1,-2
+w00c391f,Beach,0.0,706.0,1.0,20.0,choice,2.0,2,0,-2
+wae73c1f,Beach,1.0,1881.0,0.0,12.0,choice,2.0,2,0,-2
+wbdee46f,Beach,0.0,767.0,1.0,4.0,choice,2.0,2,-1,-2
+wd1558cc,Beach,1.0,781.0,0.0,14.0,choice,2.0,1,1,-2
+w0cf8802,Beach,0.0,2164.0,1.0,11.0,choice,2.0,1,0,-2
+w31b7dbe,Beach,0.0,3947.0,1.0,1.0,choice,2.0,3,-1,-2
+w1efb25c,Beach,0.0,3488.0,1.0,19.0,choice,2.0,2,-2,-2
+w017e3cd,Beach,0.0,5527.0,1.0,8.0,choice,2.0,2,-1,-2
+w865d6ad,Beach,0.0,643.0,1.0,6.0,choice,2.0,1,-1,-2
+w4810e3e,Beach,1.0,1979.0,0.0,30.0,choice,2.0,2,2,-2
+w161eef2,Beach,1.0,1911.0,0.0,9.0,choice,2.0,1,0,-2
+wd9e76e4,Beach,1.0,1184.0,0.0,28.0,choice,2.0,1,1,-2
+w6355333,Beach,0.0,111.0,1.0,24.0,choice,2.0,1,-1,-2
+wa620fe2,Beach,0.0,2459.0,1.0,25.0,choice,2.0,1,-1,-2
+w812d061,Beach,0.0,378.0,1.0,22.0,choice,2.0,1,-1,-2
+wf9347d8,Beach,0.0,928.0,1.0,13.0,choice,2.0,1,1,-2
+w5624f17,Beach,0.0,2039.0,1.0,3.0,choice,2.0,2,1,-2
+wad2e584,Beach,1.0,3084.0,0.0,24.0,choice,2.0,0,0,-2
+wf2e46b5,Beach,1.0,332.0,0.0,17.0,choice,2.0,1,1,-2
+wbff56f6,Beach,1.0,4252.0,0.0,26.0,choice,2.0,2,-1,-2
+w3067c35,Beach,1.0,2474.0,0.0,4.0,choice,2.0,0,0,-2
+wc136bb6,Beach,1.0,2832.0,0.0,6.0,choice,2.0,2,-2,-2
+wa24f9fe,Beach,0.0,551.0,1.0,19.0,choice,2.0,1,-2,-2
+w51d8142,Beach,0.0,1320.0,1.0,27.0,choice,2.0,3,-1,-2
+wf7e1cf2,Beach,0.0,1131.0,1.0,4.0,choice,2.0,3,0,-2
+w915dec2,Beach,1.0,84.0,0.0,18.0,choice,2.0,1,0,-2
+w4e312fd,Beach,0.0,1068.0,1.0,15.0,choice,2.0,1,-1,-2
+w0c6daff,Beach,0.0,1926.0,1.0,16.0,choice,2.0,1,-1,-2
+w472a3b0,Beach,0.0,607.0,1.0,9.0,choice,2.0,2,-1,-2
+w7b672a4,Beach,,,0.0,2.0,choice,2.0,0,-1,-2
+wa06df17,Beach,0.0,1953.0,1.0,9.0,choice,2.0,2,0,-2
+w0e327f3,Beach,1.0,4710.0,0.0,12.0,choice,2.0,2,-2,-2
+w1afb6bd,Beach,0.0,2674.0,1.0,28.0,choice,2.0,1,-2,-2
+w08dda5e,Beach,1.0,953.0,0.0,24.0,choice,2.0,1,1,-2
+w49dc7cd,Beach,1.0,645.0,0.0,16.0,choice,2.0,2,1,-2
+w7574933,Beach,0.0,468.0,1.0,27.0,choice,2.0,1,-1,-2
+w2e9806f,Appliances,0.0,860.0,1.0,22.0,choice,1.0,1,-1,-1
+wf57281a,Appliances,0.0,1311.0,1.0,3.0,choice,1.0,1,0,-1
+wc861d09,Appliances,,,0.0,13.0,choice,1.0,1,1,-1
+w3ef8767,Appliances,0.0,3608.0,1.0,27.0,choice,1.0,1,0,-1
+wb050285,Appliances,0.0,692.0,1.0,28.0,choice,1.0,1,-1,-1
+w2c5d7eb,Appliances,0.0,766.0,1.0,17.0,choice,1.0,2,-1,-1
+w567d945,Appliances,0.0,4277.0,1.0,8.0,choice,1.0,1,-1,-1
+wbf71104,Appliances,1.0,1284.0,0.0,27.0,choice,1.0,1,0,-1
+wdcba2fa,Appliances,0.0,4894.0,1.0,12.0,choice,1.0,1,-1,-1
+w06dc745,Appliances,1.0,1716.0,0.0,1.0,choice,1.0,2,0,-1
+wd3b5cb5,Appliances,0.0,3772.0,1.0,18.0,choice,1.0,2,-1,-1
+wea422b2,Appliances,1.0,771.0,0.0,10.0,choice,1.0,1,0,-1
+w8b71afe,Appliances,1.0,1177.0,0.0,19.0,choice,1.0,1,0,-1
+wea26d76,Appliances,0.0,5445.0,1.0,19.0,choice,1.0,1,0,-1
+w28e335e,Appliances,0.0,358.0,1.0,22.0,choice,1.0,1,-1,-1
+w8d04c13,Appliances,0.0,1762.0,1.0,19.0,choice,1.0,0,0,-1
+w882868f,Appliances,0.0,507.0,1.0,16.0,choice,1.0,1,-1,-1
+w973e0a4,Appliances,1.0,580.0,0.0,24.0,choice,1.0,1,1,-1
+w38281a7,Appliances,0.0,3536.0,1.0,24.0,choice,1.0,1,-1,-1
+w15afaeb,Appliances,0.0,6700.0,1.0,16.0,choice,1.0,1,0,-1
+we820c40,Appliances,0.0,1519.0,1.0,3.0,choice,1.0,1,0,-1
+wd1f6033,Appliances,1.0,359.0,0.0,29.0,choice,1.0,1,0,-1
+wa9588e1,Appliances,0.0,2651.0,1.0,15.0,choice,1.0,0,0,-1
+w417dedd,Appliances,1.0,866.0,0.0,26.0,choice,1.0,1,0,-1
+waf5ed76,Appliances,0.0,706.0,1.0,8.0,choice,1.0,1,-1,-1
+wb83a52c,Appliances,1.0,3752.0,0.0,10.0,choice,1.0,5,1,-1
+wf9d56e4,Appliances,0.0,1235.0,1.0,14.0,choice,1.0,0,0,-1
+w00c391f,Appliances,0.0,2400.0,1.0,26.0,choice,1.0,1,-1,-1
+wae73c1f,Appliances,0.0,3053.0,1.0,30.0,choice,1.0,1,-1,-1
+wbdee46f,Appliances,0.0,3904.0,1.0,26.0,choice,1.0,1,0,-1
+wd1558cc,Appliances,0.0,2980.0,1.0,29.0,choice,1.0,1,0,-1
+w0cf8802,Appliances,1.0,3996.0,0.0,12.0,choice,1.0,1,0,-1
+w31b7dbe,Appliances,1.0,3767.0,0.0,19.0,choice,1.0,1,0,-1
+w1efb25c,Appliances,1.0,5032.0,0.0,16.0,choice,1.0,1,0,-1
+w017e3cd,Appliances,1.0,1604.0,0.0,7.0,choice,1.0,1,1,-1
+w865d6ad,Appliances,1.0,3552.0,0.0,4.0,choice,1.0,2,1,-1
+w4810e3e,Appliances,0.0,2644.0,1.0,15.0,choice,1.0,1,-1,-1
+w161eef2,Appliances,0.0,2252.0,1.0,27.0,choice,1.0,1,0,-1
+wd9e76e4,Appliances,0.0,1506.0,1.0,15.0,choice,1.0,2,-1,-1
+w6355333,Appliances,1.0,3242.0,0.0,16.0,choice,1.0,1,-1,-1
+wa620fe2,Appliances,0.0,3466.0,1.0,14.0,choice,1.0,1,0,-1
+w812d061,Appliances,0.0,588.0,1.0,7.0,choice,1.0,1,0,-1
+wf9347d8,Appliances,0.0,2842.0,1.0,17.0,choice,1.0,1,-1,-1
+w5624f17,Appliances,0.0,1995.0,1.0,10.0,choice,1.0,1,1,-1
+wad2e584,Appliances,1.0,1475.0,0.0,13.0,choice,1.0,0,1,-1
+wf2e46b5,Appliances,0.0,1066.0,1.0,23.0,choice,1.0,1,0,-1
+wbff56f6,Appliances,0.0,6397.0,1.0,1.0,choice,1.0,1,0,-1
+w3067c35,Appliances,0.0,2505.0,1.0,17.0,choice,1.0,1,1,-1
+wc136bb6,Appliances,0.0,1479.0,1.0,26.0,choice,1.0,1,-1,-1
+wa24f9fe,Appliances,1.0,4525.0,0.0,21.0,choice,1.0,1,0,-1
+w51d8142,Appliances,0.0,1563.0,1.0,12.0,choice,1.0,2,0,-1
+wf7e1cf2,Appliances,1.0,1033.0,0.0,14.0,choice,1.0,0,0,-1
+w915dec2,Appliances,,,0.0,1.0,choice,1.0,1,0,-1
+w4e312fd,Appliances,1.0,728.0,0.0,24.0,choice,1.0,1,1,-1
+w0c6daff,Appliances,0.0,1682.0,1.0,25.0,choice,1.0,1,-1,-1
+w472a3b0,Appliances,1.0,2360.0,0.0,29.0,choice,1.0,1,1,-1
+w7b672a4,Appliances,0.0,948.0,1.0,26.0,choice,1.0,1,0,-1
+wa06df17,Appliances,0.0,1115.0,1.0,10.0,choice,1.0,1,-1,-1
+w0e327f3,Appliances,0.0,3636.0,1.0,17.0,choice,1.0,3,-1,-1
+w1afb6bd,Appliances,0.0,7464.0,1.0,6.0,choice,1.0,2,0,-1
+w08dda5e,Appliances,1.0,2077.0,0.0,17.0,choice,1.0,2,0,-1
+w49dc7cd,Appliances,0.0,3001.0,1.0,10.0,choice,1.0,1,0,-1
+w7574933,Appliances,0.0,850.0,1.0,16.0,choice,1.0,1,-1,-1
+w2e9806f,Vehicles,1.0,5132.0,1.0,23.0,choice,3.0,3,0,1
+wf57281a,Vehicles,1.0,721.0,1.0,14.0,choice,3.0,2,0,1
+wc861d09,Vehicles,1.0,3272.0,1.0,10.0,choice,3.0,1,2,1
+w3ef8767,Vehicles,1.0,724.0,1.0,12.0,choice,3.0,3,2,1
+wb050285,Vehicles,0.0,1801.0,0.0,3.0,choice,3.0,0,-1,1
+w2c5d7eb,Vehicles,1.0,2311.0,1.0,13.0,choice,3.0,3,2,1
+w567d945,Vehicles,1.0,814.0,1.0,20.0,choice,3.0,2,3,1
+wbf71104,Vehicles,1.0,2956.0,1.0,29.0,choice,3.0,2,0,1
+wdcba2fa,Vehicles,0.0,1483.0,0.0,16.0,choice,3.0,1,-1,1
+w06dc745,Vehicles,1.0,1547.0,1.0,11.0,choice,3.0,3,2,1
+wd3b5cb5,Vehicles,1.0,2010.0,1.0,28.0,choice,3.0,0,2,1
+wea422b2,Vehicles,1.0,1242.0,1.0,14.0,choice,3.0,1,1,1
+w8b71afe,Vehicles,1.0,3865.0,1.0,20.0,choice,3.0,2,-1,1
+wea26d76,Vehicles,1.0,3621.0,1.0,4.0,choice,3.0,2,1,1
+w28e335e,Vehicles,1.0,3786.0,1.0,20.0,choice,3.0,0,-1,1
+w8d04c13,Vehicles,0.0,2022.0,0.0,26.0,choice,3.0,2,1,1
+w882868f,Vehicles,1.0,2791.0,1.0,6.0,choice,3.0,1,1,1
+w973e0a4,Vehicles,0.0,2688.0,0.0,28.0,choice,3.0,3,1,1
+w38281a7,Vehicles,1.0,1785.0,1.0,19.0,choice,3.0,3,1,1
+w15afaeb,Vehicles,1.0,1893.0,1.0,9.0,choice,3.0,3,1,1
+we820c40,Vehicles,0.0,5712.0,0.0,25.0,choice,3.0,3,0,1
+wd1f6033,Vehicles,1.0,1220.0,1.0,26.0,choice,3.0,3,-2,1
+wa9588e1,Vehicles,0.0,2000.0,0.0,6.0,choice,3.0,2,-1,1
+w417dedd,Vehicles,1.0,4033.0,1.0,25.0,choice,3.0,3,-1,1
+waf5ed76,Vehicles,0.0,2413.0,0.0,29.0,choice,3.0,3,-1,1
+wb83a52c,Vehicles,0.0,3928.0,0.0,15.0,choice,3.0,3,1,1
+wf9d56e4,Vehicles,1.0,697.0,1.0,20.0,choice,3.0,3,-1,1
+w00c391f,Vehicles,1.0,2855.0,1.0,16.0,choice,3.0,1,0,1
+wae73c1f,Vehicles,1.0,2691.0,1.0,17.0,choice,3.0,2,2,1
+wbdee46f,Vehicles,1.0,1023.0,1.0,6.0,choice,3.0,3,2,1
+wd1558cc,Vehicles,1.0,1381.0,1.0,26.0,choice,3.0,2,0,1
+w0cf8802,Vehicles,1.0,45.0,1.0,16.0,choice,3.0,3,2,1
+w31b7dbe,Vehicles,1.0,1677.0,1.0,22.0,choice,3.0,1,2,1
+w1efb25c,Vehicles,1.0,1817.0,1.0,8.0,choice,3.0,2,1,1
+w017e3cd,Vehicles,1.0,2003.0,1.0,14.0,choice,3.0,3,2,1
+w865d6ad,Vehicles,1.0,1190.0,1.0,21.0,choice,3.0,3,2,1
+w4810e3e,Vehicles,1.0,3704.0,1.0,5.0,choice,3.0,2,0,1
+w161eef2,Vehicles,0.0,1778.0,0.0,10.0,choice,3.0,1,1,1
+wd9e76e4,Vehicles,1.0,1393.0,1.0,11.0,choice,3.0,1,1,1
+w6355333,Vehicles,1.0,5294.0,1.0,2.0,choice,3.0,3,0,1
+wa620fe2,Vehicles,1.0,956.0,1.0,20.0,choice,3.0,3,1,1
+w812d061,Vehicles,0.0,388.0,0.0,4.0,choice,3.0,1,0,1
+wf9347d8,Vehicles,1.0,1530.0,1.0,24.0,choice,3.0,1,2,1
+w5624f17,Vehicles,1.0,4318.0,1.0,14.0,choice,3.0,3,3,1
+wad2e584,Vehicles,1.0,1015.0,1.0,11.0,choice,3.0,2,1,1
+wf2e46b5,Vehicles,1.0,515.0,1.0,30.0,choice,3.0,2,2,1
+wbff56f6,Vehicles,1.0,862.0,1.0,5.0,choice,3.0,1,1,1
+w3067c35,Vehicles,1.0,329.0,1.0,10.0,choice,3.0,1,2,1
+wc136bb6,Vehicles,1.0,4534.0,1.0,24.0,choice,3.0,1,0,1
+wa24f9fe,Vehicles,1.0,3225.0,1.0,14.0,choice,3.0,0,2,1
+w51d8142,Vehicles,1.0,2450.0,1.0,28.0,choice,3.0,2,0,1
+wf7e1cf2,Vehicles,0.0,526.0,0.0,16.0,choice,3.0,3,-1,1
+w915dec2,Vehicles,1.0,777.0,1.0,12.0,choice,3.0,2,2,1
+w4e312fd,Vehicles,1.0,1249.0,1.0,11.0,choice,3.0,2,0,1
+w0c6daff,Vehicles,1.0,2925.0,1.0,6.0,choice,3.0,3,2,1
+w472a3b0,Vehicles,1.0,2294.0,1.0,14.0,choice,3.0,3,0,1
+w7b672a4,Vehicles,1.0,2487.0,1.0,19.0,choice,3.0,0,0,1
+wa06df17,Vehicles,0.0,4826.0,0.0,30.0,choice,3.0,1,1,1
+w0e327f3,Vehicles,1.0,6019.0,1.0,3.0,choice,3.0,2,1,1
+w1afb6bd,Vehicles,0.0,2316.0,0.0,3.0,choice,3.0,3,-1,1
+w08dda5e,Vehicles,0.0,1914.0,0.0,30.0,choice,3.0,3,-2,1
+w49dc7cd,Vehicles,1.0,1485.0,1.0,29.0,choice,3.0,3,1,1
+w7574933,Vehicles,0.0,604.0,0.0,23.0,choice,3.0,3,1,1
+w2e9806f,Hands,1.0,6380.0,0.0,24.0,choice,2.0,2,1,-2
+wf57281a,Hands,0.0,3169.0,1.0,24.0,choice,2.0,2,-1,-2
+wc861d09,Hands,1.0,2935.0,0.0,25.0,choice,2.0,0,1,-2
+w3ef8767,Hands,0.0,4386.0,1.0,10.0,choice,2.0,2,-1,-2
+wb050285,Hands,1.0,1996.0,0.0,20.0,choice,2.0,1,-1,-2
+w2c5d7eb,Hands,,,0.0,9.0,choice,2.0,2,-2,-2
+w567d945,Hands,0.0,2707.0,1.0,27.0,choice,2.0,1,-1,-2
+wbf71104,Hands,1.0,4217.0,0.0,1.0,choice,2.0,1,0,-2
+wdcba2fa,Hands,0.0,734.0,1.0,14.0,choice,2.0,1,1,-2
+w06dc745,Hands,1.0,528.0,0.0,5.0,choice,2.0,2,0,-2
+wd3b5cb5,Hands,0.0,5508.0,1.0,19.0,choice,2.0,2,-2,-2
+wea422b2,Hands,0.0,4956.0,1.0,1.0,choice,2.0,1,0,-2
+w8b71afe,Hands,1.0,5198.0,0.0,30.0,choice,2.0,2,0,-2
+wea26d76,Hands,0.0,4463.0,1.0,20.0,choice,2.0,2,0,-2
+w28e335e,Hands,0.0,5992.0,1.0,1.0,choice,2.0,2,1,-2
+w8d04c13,Hands,1.0,6785.0,0.0,22.0,choice,2.0,2,0,-2
+w882868f,Hands,0.0,2518.0,1.0,4.0,choice,2.0,1,-2,-2
+w973e0a4,Hands,0.0,3386.0,1.0,8.0,choice,2.0,0,-2,-2
+w38281a7,Hands,0.0,5168.0,1.0,9.0,choice,2.0,1,-2,-2
+w15afaeb,Hands,1.0,5610.0,0.0,1.0,choice,2.0,2,-1,-2
+we820c40,Hands,0.0,3989.0,1.0,8.0,choice,2.0,1,0,-2
+wd1f6033,Hands,0.0,1312.0,1.0,22.0,choice,2.0,1,-1,-2
+wa9588e1,Hands,1.0,2217.0,0.0,10.0,choice,2.0,0,0,-2
+w417dedd,Hands,0.0,1478.0,1.0,8.0,choice,2.0,2,0,-2
+waf5ed76,Hands,0.0,4458.0,1.0,28.0,choice,2.0,2,-2,-2
+wb83a52c,Hands,0.0,915.0,1.0,5.0,choice,2.0,2,0,-2
+wf9d56e4,Hands,0.0,3726.0,1.0,7.0,choice,2.0,2,0,-2
+w00c391f,Hands,1.0,1418.0,0.0,27.0,choice,2.0,1,0,-2
+wae73c1f,Hands,0.0,4360.0,1.0,29.0,choice,2.0,0,-2,-2
+wbdee46f,Hands,0.0,3775.0,1.0,3.0,choice,2.0,2,-1,-2
+wd1558cc,Hands,1.0,3104.0,0.0,21.0,choice,2.0,4,0,-2
+w0cf8802,Hands,0.0,2313.0,1.0,9.0,choice,2.0,1,0,-2
+w31b7dbe,Hands,1.0,4408.0,0.0,30.0,choice,2.0,0,0,-2
+w1efb25c,Hands,0.0,4259.0,1.0,25.0,choice,2.0,1,-1,-2
+w017e3cd,Hands,1.0,6494.0,0.0,2.0,choice,2.0,2,-2,-2
+w865d6ad,Hands,0.0,568.0,1.0,14.0,choice,2.0,0,-1,-2
+w4810e3e,Hands,0.0,4704.0,1.0,14.0,choice,2.0,1,-1,-2
+w161eef2,Hands,0.0,989.0,1.0,29.0,choice,2.0,0,0,-2
+wd9e76e4,Hands,0.0,1678.0,1.0,19.0,choice,2.0,2,0,-2
+w6355333,Hands,0.0,4060.0,1.0,23.0,choice,2.0,1,0,-2
+wa620fe2,Hands,0.0,1721.0,1.0,28.0,choice,2.0,2,-1,-2
+w812d061,Hands,0.0,723.0,1.0,25.0,choice,2.0,1,0,-2
+wf9347d8,Hands,1.0,3049.0,0.0,5.0,choice,2.0,0,-2,-2
+w5624f17,Hands,0.0,6087.0,1.0,20.0,choice,2.0,2,-2,-2
+wad2e584,Hands,0.0,823.0,1.0,17.0,choice,2.0,0,0,-2
+wf2e46b5,Hands,1.0,741.0,0.0,29.0,choice,2.0,1,0,-2
+wbff56f6,Hands,0.0,858.0,1.0,10.0,choice,2.0,1,-1,-2
+w3067c35,Hands,0.0,2991.0,1.0,13.0,choice,2.0,0,0,-2
+wc136bb6,Hands,0.0,4324.0,1.0,8.0,choice,2.0,1,-1,-2
+wa24f9fe,Hands,1.0,6421.0,0.0,3.0,choice,2.0,0,-1,-2
+w51d8142,Hands,0.0,816.0,1.0,29.0,choice,2.0,3,0,-2
+wf7e1cf2,Hands,1.0,1536.0,0.0,7.0,choice,2.0,1,0,-2
+w915dec2,Hands,1.0,5210.0,0.0,17.0,choice,2.0,0,0,-2
+w4e312fd,Hands,0.0,649.0,1.0,12.0,choice,2.0,2,0,-2
+w0c6daff,Hands,0.0,3317.0,1.0,23.0,choice,2.0,1,1,-2
+w472a3b0,Hands,0.0,1782.0,1.0,17.0,choice,2.0,1,-2,-2
+w7b672a4,Hands,1.0,1352.0,0.0,13.0,choice,2.0,0,0,-2
+wa06df17,Hands,1.0,667.0,0.0,21.0,choice,2.0,0,-1,-2
+w0e327f3,Hands,0.0,3853.0,1.0,9.0,choice,2.0,2,-1,-2
+w1afb6bd,Hands,1.0,3905.0,0.0,17.0,choice,2.0,0,-1,-2
+w08dda5e,Hands,0.0,2717.0,1.0,19.0,choice,2.0,2,1,-2
+w49dc7cd,Hands,1.0,5232.0,0.0,18.0,choice,2.0,2,0,-2
+w7574933,Hands,0.0,2981.0,1.0,13.0,choice,2.0,2,-2,-2
+w2e9806f,Leaves,1.0,5659.0,0.0,26.0,choice,6.0,4,2,-2
+wf57281a,Leaves,1.0,2046.0,0.0,7.0,choice,6.0,5,-2,-2
+wc861d09,Leaves,1.0,1940.0,0.0,30.0,choice,6.0,3,2,-2
+w3ef8767,Leaves,0.0,936.0,1.0,14.0,choice,6.0,6,-1,-2
+wb050285,Leaves,1.0,1652.0,0.0,6.0,choice,6.0,0,-2,-2
+w2c5d7eb,Leaves,0.0,3568.0,1.0,15.0,choice,6.0,3,-2,-2
+w567d945,Leaves,0.0,2810.0,1.0,29.0,choice,6.0,2,-1,-2
+wbf71104,Leaves,1.0,653.0,0.0,12.0,choice,6.0,3,0,-2
+wdcba2fa,Leaves,1.0,1205.0,0.0,25.0,choice,6.0,0,2,-2
+w06dc745,Leaves,0.0,2400.0,1.0,21.0,choice,6.0,0,0,-2
+wd3b5cb5,Leaves,0.0,5083.0,1.0,24.0,choice,6.0,4,-1,-2
+wea422b2,Leaves,0.0,5840.0,1.0,13.0,choice,6.0,0,2,-2
+w8b71afe,Leaves,0.0,3639.0,1.0,6.0,choice,6.0,5,1,-2
+wea26d76,Leaves,0.0,6162.0,1.0,6.0,choice,6.0,5,3,-2
+w28e335e,Leaves,1.0,2751.0,0.0,28.0,choice,6.0,0,0,-2
+w8d04c13,Leaves,,,0.0,7.0,choice,6.0,0,0,-2
+w882868f,Leaves,0.0,2854.0,1.0,24.0,choice,6.0,3,-2,-2
+w973e0a4,Leaves,0.0,2323.0,1.0,17.0,choice,6.0,2,-3,-2
+w38281a7,Leaves,,,0.0,11.0,choice,6.0,6,-2,-2
+w15afaeb,Leaves,0.0,4321.0,1.0,19.0,choice,6.0,6,-2,-2
+we820c40,Leaves,0.0,6088.0,1.0,19.0,choice,6.0,3,-1,-2
+wd1f6033,Leaves,0.0,3348.0,1.0,20.0,choice,6.0,5,0,-2
+wa9588e1,Leaves,1.0,308.0,0.0,11.0,choice,6.0,4,1,-2
+w417dedd,Leaves,1.0,2144.0,0.0,9.0,choice,6.0,4,0,-2
+waf5ed76,Leaves,0.0,5388.0,1.0,23.0,choice,6.0,5,-4,-2
+wb83a52c,Leaves,0.0,1297.0,1.0,4.0,choice,6.0,6,0,-2
+wf9d56e4,Leaves,0.0,463.0,1.0,27.0,choice,6.0,0,0,-2
+w00c391f,Leaves,1.0,3090.0,0.0,10.0,choice,6.0,1,1,-2
+wae73c1f,Leaves,0.0,3474.0,1.0,28.0,choice,6.0,3,-2,-2
+wbdee46f,Leaves,0.0,962.0,1.0,30.0,choice,6.0,6,0,-2
+wd1558cc,Leaves,1.0,1864.0,0.0,4.0,choice,6.0,4,0,-2
+w0cf8802,Leaves,0.0,1391.0,1.0,6.0,choice,6.0,7,2,-2
+w31b7dbe,Leaves,1.0,920.0,0.0,11.0,choice,6.0,4,0,-2
+w1efb25c,Leaves,1.0,3457.0,0.0,13.0,choice,6.0,4,0,-2
+w017e3cd,Leaves,0.0,1334.0,1.0,3.0,choice,6.0,5,-1,-2
+w865d6ad,Leaves,0.0,427.0,1.0,27.0,choice,6.0,0,0,-2
+w4810e3e,Leaves,0.0,2790.0,1.0,26.0,choice,6.0,5,-2,-2
+w161eef2,Leaves,0.0,4101.0,1.0,23.0,choice,6.0,2,2,-2
+wd9e76e4,Leaves,0.0,1412.0,1.0,23.0,choice,6.0,6,2,-2
+w6355333,Leaves,1.0,3406.0,0.0,26.0,choice,6.0,2,0,-2
+wa620fe2,Leaves,0.0,2507.0,1.0,5.0,choice,6.0,1,-1,-2
+w812d061,Leaves,0.0,728.0,1.0,27.0,choice,6.0,2,1,-2
+wf9347d8,Leaves,1.0,441.0,0.0,9.0,choice,6.0,5,-2,-2
+w5624f17,Leaves,1.0,2404.0,0.0,30.0,choice,6.0,6,-1,-2
+wad2e584,Leaves,0.0,2805.0,1.0,28.0,choice,6.0,0,0,-2
+wf2e46b5,Leaves,1.0,2180.0,0.0,24.0,choice,6.0,0,2,-2
+wbff56f6,Leaves,,,0.0,3.0,choice,6.0,2,-1,-2
+w3067c35,Leaves,0.0,4053.0,1.0,2.0,choice,6.0,0,3,-2
+wc136bb6,Leaves,0.0,943.0,1.0,14.0,choice,6.0,5,0,-2
+wa24f9fe,Leaves,1.0,2124.0,0.0,25.0,choice,6.0,0,0,-2
+w51d8142,Leaves,0.0,2003.0,1.0,8.0,choice,6.0,5,1,-2
+wf7e1cf2,Leaves,0.0,1111.0,1.0,13.0,choice,6.0,0,0,-2
+w915dec2,Leaves,0.0,6846.0,1.0,19.0,choice,6.0,5,0,-2
+w4e312fd,Leaves,0.0,1378.0,1.0,2.0,choice,6.0,3,0,-2
+w0c6daff,Leaves,0.0,925.0,1.0,8.0,choice,6.0,5,3,-2
+w472a3b0,Leaves,0.0,3329.0,1.0,13.0,choice,6.0,4,-2,-2
+w7b672a4,Leaves,0.0,2879.0,1.0,7.0,choice,6.0,2,2,-2
+wa06df17,Leaves,0.0,2256.0,1.0,14.0,choice,6.0,0,0,-2
+w0e327f3,Leaves,1.0,3937.0,0.0,13.0,choice,6.0,7,-1,-2
+w1afb6bd,Leaves,1.0,884.0,0.0,23.0,choice,6.0,6,-2,-2
+w08dda5e,Leaves,0.0,1904.0,1.0,6.0,choice,6.0,5,-1,-2
+w49dc7cd,Leaves,1.0,4601.0,0.0,7.0,choice,6.0,4,-2,-2
+w7574933,Leaves,0.0,1870.0,1.0,26.0,choice,6.0,6,1,-2
+w2e9806f,Wild Animals,0.0,4324.0,1.0,28.0,choice,4.0,5,-1,-4
+wf57281a,Wild Animals,0.0,1285.0,1.0,5.0,choice,4.0,4,-2,-4
+wc861d09,Wild Animals,1.0,7248.0,0.0,16.0,choice,4.0,3,-1,-4
+w3ef8767,Wild Animals,1.0,4973.0,0.0,29.0,choice,4.0,4,-1,-4
+wb050285,Wild Animals,0.0,1134.0,1.0,11.0,choice,4.0,3,-3,-4
+w2c5d7eb,Wild Animals,0.0,959.0,1.0,8.0,choice,4.0,4,-4,-4
+w567d945,Wild Animals,0.0,1859.0,1.0,26.0,choice,4.0,3,-2,-4
+wbf71104,Wild Animals,0.0,976.0,1.0,3.0,choice,4.0,4,-1,-4
+wdcba2fa,Wild Animals,1.0,5156.0,0.0,2.0,choice,4.0,4,1,-4
+w06dc745,Wild Animals,0.0,2034.0,1.0,25.0,choice,4.0,4,-2,-4
+wd3b5cb5,Wild Animals,0.0,3799.0,1.0,3.0,choice,4.0,4,-3,-4
+wea422b2,Wild Animals,0.0,645.0,1.0,16.0,choice,4.0,1,-1,-4
+w8b71afe,Wild Animals,0.0,4302.0,1.0,15.0,choice,4.0,4,-1,-4
+wea26d76,Wild Animals,,,0.0,9.0,choice,4.0,5,0,-4
+w28e335e,Wild Animals,0.0,3803.0,1.0,12.0,choice,4.0,3,-1,-4
+w8d04c13,Wild Animals,0.0,639.0,1.0,14.0,choice,4.0,5,-2,-4
+w882868f,Wild Animals,0.0,689.0,1.0,7.0,choice,4.0,4,-4,-4
+w973e0a4,Wild Animals,0.0,1533.0,1.0,14.0,choice,4.0,4,-1,-4
+w38281a7,Wild Animals,0.0,2494.0,1.0,29.0,choice,4.0,5,-3,-4
+w15afaeb,Wild Animals,0.0,3907.0,1.0,3.0,choice,4.0,5,-2,-4
+we820c40,Wild Animals,0.0,3619.0,1.0,2.0,choice,4.0,4,-3,-4
+wd1f6033,Wild Animals,0.0,2052.0,1.0,11.0,choice,4.0,4,-1,-4
+wa9588e1,Wild Animals,0.0,1034.0,1.0,28.0,choice,4.0,4,1,-4
+w417dedd,Wild Animals,0.0,1315.0,1.0,13.0,choice,4.0,5,-1,-4
+waf5ed76,Wild Animals,0.0,3213.0,1.0,21.0,choice,4.0,2,-4,-4
+wb83a52c,Wild Animals,0.0,6418.0,1.0,24.0,choice,4.0,4,-1,-4
+wf9d56e4,Wild Animals,0.0,3284.0,1.0,1.0,choice,4.0,4,-1,-4
+w00c391f,Wild Animals,0.0,2161.0,1.0,18.0,choice,4.0,5,1,-4
+wae73c1f,Wild Animals,,,0.0,20.0,choice,4.0,3,-2,-4
+wbdee46f,Wild Animals,0.0,3627.0,1.0,24.0,choice,4.0,1,-2,-4
+wd1558cc,Wild Animals,0.0,2525.0,1.0,27.0,choice,4.0,4,0,-4
+w0cf8802,Wild Animals,1.0,4884.0,0.0,25.0,choice,4.0,4,0,-4
+w31b7dbe,Wild Animals,0.0,2758.0,1.0,4.0,choice,4.0,4,-1,-4
+w1efb25c,Wild Animals,0.0,2639.0,1.0,21.0,choice,4.0,4,-2,-4
+w017e3cd,Wild Animals,0.0,3337.0,1.0,10.0,choice,4.0,3,-3,-4
+w865d6ad,Wild Animals,0.0,533.0,1.0,7.0,choice,4.0,4,-2,-4
+w4810e3e,Wild Animals,0.0,1809.0,1.0,7.0,choice,4.0,3,-2,-4
+w161eef2,Wild Animals,1.0,3909.0,0.0,1.0,choice,4.0,3,0,-4
+wd9e76e4,Wild Animals,0.0,2881.0,1.0,22.0,choice,4.0,4,2,-4
+w6355333,Wild Animals,0.0,1203.0,1.0,25.0,choice,4.0,6,-3,-4
+wa620fe2,Wild Animals,0.0,1303.0,1.0,4.0,choice,4.0,5,-3,-4
+w812d061,Wild Animals,0.0,578.0,1.0,30.0,choice,4.0,3,0,-4
+wf9347d8,Wild Animals,0.0,3966.0,1.0,26.0,choice,4.0,3,-3,-4
+w5624f17,Wild Animals,0.0,806.0,1.0,11.0,choice,4.0,4,-2,-4
+wad2e584,Wild Animals,1.0,2495.0,0.0,30.0,choice,4.0,4,1,-4
+wf2e46b5,Wild Animals,0.0,660.0,1.0,18.0,choice,4.0,4,0,-4
+wbff56f6,Wild Animals,0.0,1108.0,1.0,16.0,choice,4.0,3,-3,-4
+w3067c35,Wild Animals,0.0,2409.0,1.0,30.0,choice,4.0,3,1,-4
+wc136bb6,Wild Animals,,,0.0,16.0,choice,4.0,2,0,-4
+wa24f9fe,Wild Animals,0.0,2776.0,1.0,26.0,choice,4.0,4,-3,-4
+w51d8142,Wild Animals,0.0,5833.0,1.0,3.0,choice,4.0,5,-1,-4
+wf7e1cf2,Wild Animals,1.0,620.0,0.0,18.0,choice,4.0,4,0,-4
+w915dec2,Wild Animals,0.0,5300.0,1.0,2.0,choice,4.0,6,-1,-4
+w4e312fd,Wild Animals,0.0,2031.0,1.0,16.0,choice,4.0,4,0,-4
+w0c6daff,Wild Animals,0.0,2266.0,1.0,19.0,choice,4.0,4,1,-4
+w472a3b0,Wild Animals,0.0,3398.0,1.0,10.0,choice,4.0,1,-3,-4
+w7b672a4,Wild Animals,0.0,2481.0,1.0,11.0,choice,4.0,3,0,-4
+wa06df17,Wild Animals,0.0,2752.0,1.0,6.0,choice,4.0,3,0,-4
+w0e327f3,Wild Animals,0.0,4811.0,1.0,21.0,choice,4.0,4,-4,-4
+w1afb6bd,Wild Animals,0.0,4381.0,1.0,5.0,choice,4.0,4,-4,-4
+w08dda5e,Wild Animals,1.0,759.0,0.0,12.0,choice,4.0,5,-2,-4
+w49dc7cd,Wild Animals,1.0,995.0,0.0,26.0,choice,4.0,4,-1,-4
+w7574933,Wild Animals,0.0,4119.0,1.0,8.0,choice,4.0,4,-1,-4
+w2e9806f,Sports Court,1.0,4951.0,1.0,29.0,choice,2.0,2,0,2
+wf57281a,Sports Court,0.0,5573.0,0.0,15.0,choice,2.0,2,0,2
+wc861d09,Sports Court,0.0,3493.0,0.0,4.0,choice,2.0,2,2,2
+w3ef8767,Sports Court,0.0,3032.0,0.0,9.0,choice,2.0,2,2,2
+wb050285,Sports Court,1.0,1033.0,1.0,8.0,choice,2.0,2,0,2
+w2c5d7eb,Sports Court,1.0,1489.0,1.0,24.0,choice,2.0,2,2,2
+w567d945,Sports Court,1.0,2900.0,1.0,15.0,choice,2.0,2,2,2
+wbf71104,Sports Court,1.0,786.0,1.0,24.0,choice,2.0,2,1,2
+wdcba2fa,Sports Court,0.0,667.0,0.0,5.0,choice,2.0,2,0,2
+w06dc745,Sports Court,1.0,1938.0,1.0,14.0,choice,2.0,2,2,2
+wd3b5cb5,Sports Court,1.0,4504.0,1.0,7.0,choice,2.0,2,2,2
+wea422b2,Sports Court,0.0,422.0,0.0,7.0,choice,2.0,1,1,2
+w8b71afe,Sports Court,1.0,3207.0,1.0,10.0,choice,2.0,2,0,2
+wea26d76,Sports Court,1.0,2821.0,1.0,14.0,choice,2.0,2,2,2
+w28e335e,Sports Court,1.0,417.0,1.0,16.0,choice,2.0,0,1,2
+w8d04c13,Sports Court,1.0,811.0,1.0,8.0,choice,2.0,2,1,2
+w882868f,Sports Court,0.0,3936.0,0.0,28.0,choice,2.0,1,-1,2
+w973e0a4,Sports Court,1.0,713.0,1.0,15.0,choice,2.0,1,2,2
+w38281a7,Sports Court,1.0,1186.0,1.0,7.0,choice,2.0,2,2,2
+w15afaeb,Sports Court,1.0,4233.0,1.0,20.0,choice,2.0,2,1,2
+we820c40,Sports Court,0.0,6688.0,0.0,12.0,choice,2.0,1,2,2
+wd1f6033,Sports Court,0.0,2892.0,0.0,30.0,choice,2.0,2,1,2
+wa9588e1,Sports Court,0.0,648.0,0.0,24.0,choice,2.0,2,2,2
+w417dedd,Sports Court,0.0,1281.0,0.0,19.0,choice,2.0,2,0,2
+waf5ed76,Sports Court,1.0,6586.0,1.0,1.0,choice,2.0,2,1,2
+wb83a52c,Sports Court,1.0,5663.0,1.0,1.0,choice,2.0,2,-1,2
+wf9d56e4,Sports Court,1.0,749.0,1.0,9.0,choice,2.0,2,2,2
+w00c391f,Sports Court,1.0,2926.0,1.0,30.0,choice,2.0,2,2,2
+wae73c1f,Sports Court,0.0,4759.0,0.0,1.0,choice,2.0,2,-1,2
+wbdee46f,Sports Court,1.0,1378.0,1.0,5.0,choice,2.0,2,2,2
+wd1558cc,Sports Court,1.0,1711.0,1.0,8.0,choice,2.0,2,1,2
+w0cf8802,Sports Court,0.0,357.0,0.0,23.0,choice,2.0,2,1,2
+w31b7dbe,Sports Court,0.0,6342.0,0.0,26.0,choice,2.0,2,1,2
+w1efb25c,Sports Court,1.0,1747.0,1.0,5.0,choice,2.0,2,0,2
+w017e3cd,Sports Court,1.0,4335.0,1.0,5.0,choice,2.0,2,2,2
+w865d6ad,Sports Court,1.0,3661.0,1.0,29.0,choice,2.0,2,1,2
+w4810e3e,Sports Court,0.0,4159.0,0.0,18.0,choice,2.0,2,-2,2
+w161eef2,Sports Court,1.0,2372.0,1.0,8.0,choice,2.0,2,2,2
+wd9e76e4,Sports Court,1.0,1405.0,1.0,29.0,choice,2.0,3,2,2
+w6355333,Sports Court,1.0,2121.0,1.0,8.0,choice,2.0,2,2,2
+wa620fe2,Sports Court,1.0,458.0,1.0,22.0,choice,2.0,2,1,2
+w812d061,Sports Court,0.0,754.0,0.0,20.0,choice,2.0,3,0,2
+wf9347d8,Sports Court,1.0,4830.0,1.0,7.0,choice,2.0,2,0,2
+w5624f17,Sports Court,1.0,2057.0,1.0,29.0,choice,2.0,2,2,2
+wad2e584,Sports Court,0.0,2947.0,0.0,25.0,choice,2.0,2,1,2
+wf2e46b5,Sports Court,1.0,439.0,1.0,7.0,choice,2.0,2,2,2
+wbff56f6,Sports Court,1.0,2031.0,1.0,18.0,choice,2.0,2,2,2
+w3067c35,Sports Court,1.0,767.0,1.0,27.0,choice,2.0,1,2,2
+wc136bb6,Sports Court,0.0,939.0,0.0,30.0,choice,2.0,2,0,2
+wa24f9fe,Sports Court,1.0,1966.0,1.0,10.0,choice,2.0,1,2,2
+w51d8142,Sports Court,0.0,1101.0,0.0,24.0,choice,2.0,3,0,2
+wf7e1cf2,Sports Court,1.0,2290.0,1.0,27.0,choice,2.0,2,0,2
+w915dec2,Sports Court,1.0,1745.0,1.0,8.0,choice,2.0,1,2,2
+w4e312fd,Sports Court,1.0,456.0,1.0,6.0,choice,2.0,2,0,2
+w0c6daff,Sports Court,1.0,902.0,1.0,12.0,choice,2.0,2,2,2
+w472a3b0,Sports Court,1.0,1791.0,1.0,16.0,choice,2.0,2,2,2
+w7b672a4,Sports Court,1.0,2188.0,1.0,18.0,choice,2.0,0,2,2
+wa06df17,Sports Court,1.0,3573.0,1.0,12.0,choice,2.0,1,2,2
+w0e327f3,Sports Court,1.0,4833.0,1.0,22.0,choice,2.0,1,2,2
+w1afb6bd,Sports Court,1.0,2776.0,1.0,25.0,choice,2.0,2,2,2
+w08dda5e,Sports Court,0.0,4428.0,0.0,20.0,choice,2.0,2,1,2
+w49dc7cd,Sports Court,0.0,2453.0,0.0,28.0,choice,2.0,1,0,2
+w7574933,Sports Court,1.0,2030.0,1.0,21.0,choice,2.0,1,2,2
+w2e9806f,Sweet Foods,1.0,1654.0,1.0,30.0,choice,4.0,1,1,2
+wf57281a,Sweet Foods,1.0,1098.0,1.0,18.0,choice,4.0,2,1,2
+wc861d09,Sweet Foods,1.0,1360.0,1.0,14.0,choice,4.0,4,3,2
+w3ef8767,Sweet Foods,1.0,1077.0,1.0,30.0,choice,4.0,4,-1,2
+wb050285,Sweet Foods,1.0,794.0,1.0,21.0,choice,4.0,1,1,2
+w2c5d7eb,Sweet Foods,1.0,877.0,1.0,10.0,choice,4.0,3,2,2
+w567d945,Sweet Foods,1.0,5433.0,1.0,19.0,choice,4.0,4,-1,2
+wbf71104,Sweet Foods,0.0,1648.0,0.0,14.0,choice,4.0,2,1,2
+wdcba2fa,Sweet Foods,1.0,902.0,1.0,30.0,choice,4.0,4,0,2
+w06dc745,Sweet Foods,1.0,479.0,1.0,8.0,choice,4.0,1,2,2
+wd3b5cb5,Sweet Foods,1.0,1654.0,1.0,23.0,choice,4.0,4,2,2
+wea422b2,Sweet Foods,1.0,1427.0,1.0,6.0,choice,4.0,2,2,2
+w8b71afe,Sweet Foods,1.0,4087.0,1.0,24.0,choice,4.0,4,3,2
+wea26d76,Sweet Foods,1.0,3204.0,1.0,13.0,choice,4.0,3,3,2
+w28e335e,Sweet Foods,1.0,851.0,1.0,10.0,choice,4.0,1,2,2
+w8d04c13,Sweet Foods,1.0,696.0,1.0,17.0,choice,4.0,3,2,2
+w882868f,Sweet Foods,1.0,2166.0,1.0,15.0,choice,4.0,2,1,2
+w973e0a4,Sweet Foods,1.0,700.0,1.0,27.0,choice,4.0,4,0,2
+w38281a7,Sweet Foods,1.0,992.0,1.0,13.0,choice,4.0,1,2,2
+w15afaeb,Sweet Foods,1.0,4842.0,1.0,14.0,choice,4.0,4,0,2
+we820c40,Sweet Foods,,,0.0,13.0,choice,4.0,1,1,2
+wd1f6033,Sweet Foods,1.0,3042.0,1.0,24.0,choice,4.0,1,2,2
+wa9588e1,Sweet Foods,1.0,438.0,1.0,17.0,choice,4.0,4,1,2
+w417dedd,Sweet Foods,0.0,2859.0,0.0,14.0,choice,4.0,3,1,2
+waf5ed76,Sweet Foods,1.0,1016.0,1.0,3.0,choice,4.0,3,-1,2
+wb83a52c,Sweet Foods,1.0,3844.0,1.0,23.0,choice,4.0,1,2,2
+wf9d56e4,Sweet Foods,1.0,1008.0,1.0,26.0,choice,4.0,4,3,2
+w00c391f,Sweet Foods,0.0,2645.0,0.0,17.0,choice,4.0,3,0,2
+wae73c1f,Sweet Foods,1.0,3140.0,1.0,16.0,choice,4.0,4,2,2
+wbdee46f,Sweet Foods,1.0,372.0,1.0,15.0,choice,4.0,3,2,2
+wd1558cc,Sweet Foods,1.0,539.0,1.0,25.0,choice,4.0,3,0,2
+w0cf8802,Sweet Foods,1.0,611.0,1.0,22.0,choice,4.0,4,0,2
+w31b7dbe,Sweet Foods,0.0,6324.0,0.0,16.0,choice,4.0,0,1,2
+w1efb25c,Sweet Foods,1.0,1392.0,1.0,7.0,choice,4.0,4,3,2
+w017e3cd,Sweet Foods,1.0,3366.0,1.0,9.0,choice,4.0,3,1,2
+w865d6ad,Sweet Foods,1.0,2049.0,1.0,24.0,choice,4.0,4,0,2
+w4810e3e,Sweet Foods,1.0,5593.0,1.0,1.0,choice,4.0,1,1,2
+w161eef2,Sweet Foods,0.0,1595.0,0.0,19.0,choice,4.0,3,1,2
+wd9e76e4,Sweet Foods,1.0,1367.0,1.0,25.0,choice,4.0,5,1,2
+w6355333,Sweet Foods,,,0.0,11.0,choice,4.0,4,3,2
+wa620fe2,Sweet Foods,1.0,2679.0,1.0,17.0,choice,4.0,4,2,2
+w812d061,Sweet Foods,1.0,328.0,1.0,28.0,choice,4.0,1,2,2
+wf9347d8,Sweet Foods,1.0,2723.0,1.0,4.0,choice,4.0,1,2,2
+w5624f17,Sweet Foods,1.0,2686.0,1.0,15.0,choice,4.0,4,1,2
+wad2e584,Sweet Foods,1.0,567.0,1.0,19.0,choice,4.0,1,-2,2
+wf2e46b5,Sweet Foods,1.0,936.0,1.0,26.0,choice,4.0,2,3,2
+wbff56f6,Sweet Foods,1.0,1420.0,1.0,21.0,choice,4.0,3,2,2
+w3067c35,Sweet Foods,0.0,3408.0,0.0,8.0,choice,4.0,2,1,2
+wc136bb6,Sweet Foods,1.0,1587.0,1.0,27.0,choice,4.0,1,2,2
+wa24f9fe,Sweet Foods,1.0,3196.0,1.0,27.0,choice,4.0,3,2,2
+w51d8142,Sweet Foods,1.0,603.0,1.0,20.0,choice,4.0,1,1,2
+wf7e1cf2,Sweet Foods,1.0,3958.0,1.0,30.0,choice,4.0,1,1,2
+w915dec2,Sweet Foods,0.0,5764.0,0.0,16.0,choice,4.0,3,-1,2
+w4e312fd,Sweet Foods,0.0,2494.0,0.0,19.0,choice,4.0,3,0,2
+w0c6daff,Sweet Foods,0.0,2098.0,0.0,28.0,choice,4.0,1,2,2
+w472a3b0,Sweet Foods,1.0,786.0,1.0,11.0,choice,4.0,1,0,2
+w7b672a4,Sweet Foods,0.0,3140.0,0.0,8.0,choice,4.0,5,1,2
+wa06df17,Sweet Foods,1.0,2417.0,1.0,8.0,choice,4.0,3,0,2
+w0e327f3,Sweet Foods,1.0,3388.0,1.0,16.0,choice,4.0,3,3,2
+w1afb6bd,Sweet Foods,1.0,1119.0,1.0,30.0,choice,4.0,3,2,2
+w08dda5e,Sweet Foods,1.0,1013.0,1.0,26.0,choice,4.0,1,4,2
+w49dc7cd,Sweet Foods,1.0,4338.0,1.0,12.0,choice,4.0,1,0,2
+w7574933,Sweet Foods,1.0,2445.0,1.0,6.0,choice,4.0,3,2,2
